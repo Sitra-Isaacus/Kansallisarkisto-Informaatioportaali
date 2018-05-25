@@ -60,8 +60,10 @@ Tee samat toimenpiteet identtisinä molemmille wp-config.php -tiedostoille.
 
 3.	Muokkaa etsi & korvaa -toiminnolla seuraavat tiedostot:
 - /wp-content/themes/twentythirteen-child/header.php
+- /wp-content/themes/twentythirteen-child/footer.php
 - /wp-content/tablepress-combined.min.css
 - /en/wp-content/themes/twentythirteen-child/header.php
+- /en/wp-content/themes/twentythirteen-child/footer.php
 - /en/wp-content/tablepress-combined.min.css
 
 Korvaa merkkijono [KOKO-OSOITE] sillä osoitteella, johon portaali asennetaan, ilman osoitteen päättävää kauttaviivaa, esim. www.domain.com/portaali
