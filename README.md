@@ -105,6 +105,12 @@ Korvaa merkkijono [KOKO-OSOITE] sillä osoitteella, johon portaali asennetaan, i
 	7.3.	Pura tiedosto tietokantaan komennolla
 
 		source hytedata.sql [enter]
+
+8.	Anna kansioille /wp-content/ ja /en/wp-content/ suojaustasoiksi 777 (ei rekursiivisesti)
+
+	8.1.	Avaa sivuston etusivu ja englanninkielisen sivuston etusivu
+	
+	8.2.	Jos kaikki näyttää  normaalilta, anna em. kansioiden suojaustasoiksi 755
 		
 		
 Asennus on valmis.
