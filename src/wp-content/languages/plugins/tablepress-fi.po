@@ -1,0 +1,1808 @@
+# Translation of Plugins - TablePress - Stable (latest release) in Finnish
+# This file is distributed under the same license as the Plugins - TablePress - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-11-13 12:39:16+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: fi\n"
+"Project-Id-Version: Plugins - TablePress - Stable (latest release)\n"
+
+#: views/view-import.php:269
+msgid "(recommended)"
+msgstr "(suositeltu)"
+
+#: views/view-edit.php:638
+msgid "The following error was registered: %s."
+msgstr "Havaittiin virhe: %s."
+
+#: views/view-edit.php:615
+msgid "Additional parameters from the <a href=\"%s\">DataTables documentation</a> to be added to the JS call."
+msgstr "Lisäparametrejä <a href=\"%s\">DataTablesin ohjeista</a> lisättäväksi JS-kutsuun."
+
+#: classes/class-tablepress.php:365
+msgid "unknown"
+msgstr "tuntematon"
+
+#: classes/class-admin-page-helper.php:79
+msgid "Thank you for using <a href=\"%s\">TablePress</a>."
+msgstr "Kiitos kun käytät <a href=\"%s\">TablePressiä</a>."
+
+#: views/view-options.php:81
+msgid "In the User Options, every TablePress user can choose the position of the plugin in his WordPress admin menu."
+msgstr "Käyttäjäasetuksista kukin käyttäjä voi valita, mihin kohtaan WordPressin ylläpitovalikkoa TablePress sijoittuu."
+
+#: views/view-about.php:211
+msgid "the translators in the <a href=\"%s\">Plugin Directory</a>,"
+msgstr "kääntäjät <a href=\"%s\">lisäosahakemistossa</a>,"
+
+#: views/view-about.php:210
+msgid "Allan Jardine for <a href=\"%s\">DataTables</a>,"
+msgstr "Allan Jardine <a href=\"%s\">DataTablesista</a>,"
+
+#. Author URI of the plugin/theme
+msgid "https://tobias.baethge.com/"
+msgstr "https://tobias.baethge.com/"
+
+#. Author of the plugin/theme
+msgid "Tobias Bäthge"
+msgstr "Tobias Bäthge"
+
+#. Description of the plugin/theme
+msgid "Embed beautiful and feature-rich tables into your posts and pages, without having to write code."
+msgstr "Sisällytä kauniita ja monipuolisia taulukoita artikkeleihisi ja sivuillesi, kirjoittamatta riviäkään koodia."
+
+#. Plugin URI of the plugin/theme
+msgid "https://tablepress.org/"
+msgstr "https://tablepress.org/"
+
+#: views/view-options_custom_css.php:141
+msgid "Proceed without saving &#8220;Custom CSS&#8221; to a file"
+msgstr "Jatka tallentamatta omaa CSS-koodia tiedostoon"
+
+#: views/view-options_custom_css.php:139
+msgid "Your &#8220;Custom CSS&#8221; will then be loaded inline."
+msgstr "Oma CSS-koodisi sisällytetään sivuun."
+
+#: views/view-options_custom_css.php:138
+msgid "To proceed without trying to save the &#8220;Custom CSS&#8221; to a file, click the button below."
+msgstr "Jatkaaksesi tallentamatta omaa CSS-koodia tiedostoon paina alla olevaa nappia."
+
+#: views/view-options_custom_css.php:136
+msgid "Proceed without saving a file"
+msgstr "Hyväksy tallentamatta tiedostoa"
+
+#: views/view-options_custom_css.php:109
+msgid "Connection Information"
+msgstr "Yhteystiedot"
+
+#: views/view-options_custom_css.php:109
+msgid "To try again with the same method that you use for updating plugins or themes, please fill out the &#8220;%s&#8221; form below."
+msgstr "Jos haluat yrittää uudestaan samalla tavalla, jota käytät lisäosien ja teemojen päivittämiseen, täytä alla oleva &#8220;%s&#8221; -lomake."
+
+#: views/view-options_custom_css.php:108
+msgid "Due to the configuration of your server, TablePress was not able to automatically save your &#8220;Custom CSS&#8221; to a file."
+msgstr "TablePress ei onnistunut automaattisesti tallentamaan omaa CSS-koodiasi tiedostoon, koska palvelimen asetukset estivät sen."
+
+#: views/view-options_custom_css.php:39
+msgid "Attention: Further action is required to save the changes to your &#8220;Custom CSS&#8221;!"
+msgstr "Huomio: Omaan CSS-koodiisi tekemien muutosten tallentaminen vaatii vielä toimenpiteitä!"
+
+#: views/view-options.php:189
+msgid "Be very careful with this and only click the button if you know what you are doing!"
+msgstr "Paina nappia vain, jos tiedät tarkalleen mitä olet tekemässä!"
+
+#: views/view-options.php:188
+msgid "You will manually need to remove the plugin&#8217;s files from the plugin folder afterwards."
+msgstr "Sinun täytyy poistaa lisäosan tiedostot lisäosahakemistosta itse tämän jälkeen."
+
+#: views/view-options.php:187
+msgid "It is recommended that you create a backup of the tables (by exporting the tables in the JSON format), in case you later change your mind."
+msgstr "Suosittelemme, että luot varmuuskopion taulukoista (viemällä taulukot JSON-muodossa) ennen tietojen tyhjentämistä."
+
+#: views/view-options.php:186
+msgid "Uninstalling <strong>will permanently delete</strong> all TablePress tables and options from the database."
+msgstr "Poistaminen <strong>tuhoaa lopullisesti</strong> kaikki TablePressin taulukot ja asetukset tietokannasta."
+
+#: views/view-options.php:167
+msgid "TablePress shall be shown in this section of my admin menu: %s"
+msgstr "TablePress näytetään tässä osassa ylläpitovalikkoa: %s"
+
+#: views/view-options.php:166
+msgid "Admin menu entry"
+msgstr "Ylläpitäjän valikko"
+
+#: views/view-options.php:157
+msgid "Top-Level (bottom)"
+msgstr "Ylätaso (ala)"
+
+#: views/view-options.php:156
+msgid "Top-Level (middle)"
+msgstr "Ylätaso (keski)"
+
+#: views/view-options.php:155
+msgid "Top-Level (top)"
+msgstr "Ylätaso (ylä)"
+
+#: views/view-options.php:115
+msgid "Please note that invalid CSS code will be stripped, if it can not be corrected automatically."
+msgstr "Viallinen CSS-koodi poistetaan, jos sitä ei saada automaattisesti korjattua."
+
+#: views/view-options.php:113
+msgid "Information on available CSS selectors can be found in the <a href=\"%s\">documentation</a>."
+msgstr "Tietoa CSS-valitsimista löytyy <a href=\"%s\">ohjeista</a>."
+
+#: views/view-options.php:111
+msgid "You can get styling examples from the <a href=\"%s\">FAQ</a>."
+msgstr "Esimerkkejä tyyleistä löytyy <a href=\"%s\">UKK</a>:sta"
+
+#: views/view-options.php:109
+msgid "&#8220;Custom CSS&#8221; (<a href=\"%s\">Cascading Style Sheets</a>) can be used to change the styling or layout of a table."
+msgstr "Omalla CSS-koodilla (<a href=\"%s\">Cascading Style Sheets</a>) voi muuttaa taulukon ulkoasua."
+
+#: views/view-options.php:101
+msgid "Load these &#8220;Custom CSS&#8221; commands to influence the table styling:"
+msgstr "Käytä näitä CSS-koodeja taulukon ulkoasun muuttamiseen:"
+
+#: views/view-options.php:100
+msgid "Custom CSS"
+msgstr "Oma CSS-koodi"
+
+#: views/view-options.php:78
+msgid "Frontend Options influence the styling of tables in pages, posts, or text widgets, by defining which CSS code shall be loaded."
+msgstr "Ulkoasuasetuksilla vaikutetaan taulukoiden ulkoasuun. Muutokset tehdään CSS-koodien avulla."
+
+#: views/view-options.php:73
+msgid "TablePress has several options which affect the plugin&#8217;s behavior in different areas."
+msgstr "TablePressissä on muutamia asetuksia, jotka vaikuttavat lisäosan toimintaan."
+
+#: views/view-options.php:54
+msgid "User Options"
+msgstr "Käyttäjäasetukset"
+
+#: views/view-options.php:52
+msgid "Frontend Options"
+msgstr "Ulkoasuasetukset"
+
+#: views/view-options.php:47
+msgid "The WP-Table Reloaded &#8220;Custom CSS&#8221; was imported successfully."
+msgstr "WP-Table Reloadedin oma CSS-koodi tuotiin onnistuneesti."
+
+#: views/view-options.php:46
+msgid "Error: Options could not be saved."
+msgstr "Virhe: Asetuksia ei voitu tallentaa."
+
+#: views/view-options.php:45
+msgid "Options saved successfully, but &#8220;Custom CSS&#8221; was not saved to file."
+msgstr "Asetukset tallennettiin, mutta omaa CSS-koodia ei saatu tallennettua tiedostoon."
+
+#: views/view-options.php:44
+msgid "Options saved successfully."
+msgstr "Asetusten tallennus onnistui."
+
+#: views/view-options.php:39
+msgid "Are you really sure?"
+msgstr "Oletko varma?"
+
+#: views/view-options.php:38
+msgid "Do you really want to uninstall TablePress and delete ALL data?"
+msgstr "Haluatko varmasti poistaa TablePressin ja poistaa KAIKEN datan?"
+
+#: views/view-list.php:612
+msgid "You should <a href=\"%s\">import</a> a table to get started!"
+msgstr "<a href=\"%s\">Tuo taulukko</a> päästäksesi alkuun!"
+
+#: views/view-list.php:610
+msgid "You should <a href=\"%s\">add</a> a table to get started!"
+msgstr "<a href=\"%s\">Lisää taulukko</a> päästäksesi alkuun!"
+
+#: views/view-list.php:589
+msgid "Apply"
+msgstr "Käytä"
+
+#: views/view-list.php:584
+msgid "Bulk Actions"
+msgstr "Massatoiminnot"
+
+#: views/view-list.php:582
+msgid "Select Bulk Action"
+msgstr "Valitse massatoiminto"
+
+#: views/view-list.php:550
+msgctxt "bulk action"
+msgid "Delete"
+msgstr "Poista"
+
+#: views/view-list.php:547
+msgctxt "bulk action"
+msgid "Export"
+msgstr "Vie"
+
+#: views/view-list.php:544
+msgctxt "bulk action"
+msgid "Copy"
+msgstr "Kopioi"
+
+#: views/view-list.php:445
+msgid "Show a preview of &#8220;%s&#8221;"
+msgstr "Esikatsele &#8220;%s&#8221;"
+
+#: views/view-list.php:442
+msgid "Delete &#8220;%s&#8221;"
+msgstr "Poista &#8220;%s&#8221;"
+
+#: views/view-list.php:439
+msgctxt "row action"
+msgid "Export"
+msgstr "Vie"
+
+#: views/view-list.php:439
+msgid "Export &#8220;%s&#8221;"
+msgstr "Vie &#8220;%s&#8221;"
+
+#: views/view-list.php:436
+msgid "Copy"
+msgstr "Kopioi"
+
+#: views/view-list.php:436
+msgid "Copy &#8220;%s&#8221;"
+msgstr "Kopioi &#8220;%s&#8221;"
+
+#: views/view-list.php:434
+msgid "Show Shortcode"
+msgstr "Näytä lyhytkoodi"
+
+#: views/view-list.php:425 views/view-list.php:432
+msgid "Edit &#8220;%s&#8221;"
+msgstr "Muokkaa &#8220;%s&#8221;"
+
+#: views/view-list.php:324
+msgid "Last Modified By"
+msgstr "Viimeksi muokannut"
+
+#: views/view-list.php:323
+msgid "Author"
+msgstr "Tekijä"
+
+#: views/view-list.php:189
+msgid "Each table has a unique ID that needs to be adjusted in that Shortcode."
+msgstr "Taulukoilla on ID-numero, joka pitää lisätä lyhytkoodiin."
+
+#: views/view-list.php:185
+msgid "Click the corresponding links within the list to edit, copy, delete, or preview a table."
+msgstr "Listan linkeillä pääset muokkaamaan, kopioimaan, poistamaan tai esikatselemaan taulukoita."
+
+#: views/view-list.php:184
+msgid "This is a list of your tables."
+msgstr "Tämä on lista taulukoistasi."
+
+#: views/view-list.php:118
+msgid "Tables"
+msgstr "Taulukot"
+
+#: views/view-list.php:112
+msgid "The tables were imported successfully from WP-Table Reloaded."
+msgstr "Taulukot tuotiin onnistuneesti WP-Table Reloadedista."
+
+#: views/view-list.php:111
+msgid "The tables were imported successfully."
+msgstr "Taulukoiden tuonti onnistui."
+
+#: views/view-list.php:110
+msgid "Notice: Not all selected tables could be copied!"
+msgstr "Huomaa: Kaikkia valittuja taulukoita ei voitu kopioida!"
+
+#: views/view-list.php:109
+msgid "Notice: Not all selected tables could be deleted!"
+msgstr "Huomaa: Kaikkia valittuja taulukoita ei voitu poistaa!"
+
+#: views/view-list.php:108
+msgid "Error: You did not select any tables!"
+msgstr "Virhe: Et valinnut yhtään taulukoita!"
+
+#: views/view-list.php:107
+msgid "Error: This bulk action is invalid!"
+msgstr "Virhe: Tämä massatoiminto ei kelpaa!"
+
+#: views/view-list.php:105
+msgid "Error: You did not specify a valid table ID."
+msgstr "Virhe: Et antanut kelvollista taulukon tunnistetta."
+
+#: views/view-list.php:104
+msgid "Error: The table could not be copied."
+msgstr "Virhe: Taulukkoa ei voitu kopioida"
+
+#: views/view-list.php:102
+msgid "The copied table has the table ID &#8220;%s&#8221;."
+msgstr "Taulukon kopion tunniste on &#8220;%s&#8221;."
+
+#: views/view-list.php:98 views/view-list.php:99
+msgid "The table was deleted successfully."
+msgid_plural "The tables were deleted successfully."
+msgstr[0] "Taulukko poistettiin onnistuneesti"
+msgstr[1] "Taulukot poistettiin onnistuneesti."
+
+#: views/view-list.php:91
+msgid "If you like the new features and enhancements, <a href=\"%s\">giving a donation</a> towards the further support and development of TablePress is recommended. Thank you!"
+msgstr "Jos pidät uusista ominaisuuksista ja parannuksista, <a href=\"%s\">lahjoitukset</a> TablePressin kehityksen hyväksi ovat tervetulleita. Kiitos!"
+
+#: views/view-list.php:90
+msgid "Please read the <a href=\"%s\">release announcement</a> for more information."
+msgstr "<a href=\"%s\">Julkaisutiedotteesta</a> saa lisätietoja."
+
+#: views/view-list.php:89
+msgid "Thank you for updating to TablePress %s!"
+msgstr "Kiitos kun päivitit TablePressin versioon %s!"
+
+#: views/view-list.php:82
+msgid "No, thanks. Don&#8217;t ask again."
+msgstr "Ei kiitos, äläkä kysy uudestaan."
+
+#: views/view-list.php:81
+msgid "I already donated."
+msgstr "Olen jo lahjoittanut."
+
+#: views/view-list.php:80
+msgid "Sure, I&#8217;ll buy you a coffee and support TablePress!"
+msgstr "Kiitos, tarjoan sinulle kahvin ja tuen TablePressiä!"
+
+#: views/view-list.php:79
+msgid "Sincerly, Tobias"
+msgstr "Kiitos, Tobias"
+
+#: views/view-list.php:78
+msgid "<a href=\"%s\">Donations</a> help me to continue user support and development of this <em>free</em> software &mdash; things for which I spend countless hours of my free time! Thank you very much!"
+msgstr "<a href=\"%s\">Lahjoitukset</a> auttavat minua tukemaan käyttäjiä ja kehittämään tätä <em>ilmaista</em> ohjelmistoa. Käytän käyttäjätukeen ja kehitystyöhön tuntikausia vapaa-aikaani. Kiitos paljon!"
+
+#: views/view-list.php:77
+msgid "If everything works and you are satisfied with the results of managing your %s table, isn&#8217;t that worth a coffee or two?"
+msgid_plural "If everything works and you are satisfied with the results of managing your %s tables, isn&#8217;t that worth a coffee or two?"
+msgstr[0] "Jos kaikki toimii ja olet tyytyväinen siihen, miten helppoa %s taulukkoasi on hallita, olisiko se kahvin tai parin arvoista sinulle?"
+msgstr[1] "Jos kaikki toimii ja olet tyytyväinen siihen, miten helppoa %s taulukkoasi on hallita, olisiko se kahvin tai parin arvoista sinulle?"
+
+#: views/view-list.php:76
+msgid "Thanks for using it! You&#8217;ve installed TablePress over a month ago."
+msgstr "Kiitos kun käytät TablePressiä! Asensit lisäosan yli kuukausi sitten."
+
+#: views/view-list.php:75
+msgid "Hi, my name is Tobias, I&#8217;m the developer of the TablePress plugin."
+msgstr "Hei, nimeni on Tobias, ja olen TablePressin kehittäjä."
+
+#: views/view-list.php:74
+msgid "Tobias Bäthge, developer of TablePress"
+msgstr "Tobias Bäthge, TablePressin kehittäjä"
+
+#: views/view-list.php:67
+msgid "Import your tables from WP-Table Reloaded"
+msgstr "Tuo taulukkosi WP-Table Reloadedista"
+
+#: views/view-list.php:66
+msgid "Please follow the <a href=\"%s\">migration guide</a> to move your tables and then deactivate WP-Table Reloaded!"
+msgstr "Katso <a href=\"%s\">muutosoppaasta</a>, kuinka siirrät taulukkosi WP-Table Reloadedista ja poistat sen sitten käytöstä."
+
+#: views/view-list.php:65
+msgid "It is strongly recommended that you switch from WP-Table Reloaded to TablePress, which not only fixes many problems, but also has more and better features than WP-Table Reloaded."
+msgstr "Vaihda WP-Table Reloadedista TablePressiin. TablePress paitsi korjaa monia WP-Table Reloadedin ongelmia, myös sisältää enemmän ja parempia ominaisuuksia kuin WP-Table Reloaded."
+
+#: views/view-list.php:64
+msgid "You have activated the plugin WP-Table Reloaded, which can not be used together with TablePress."
+msgstr "Olet aktivoinut WP-Table Reloadedin, jota ei voi käyttää yhdessä TablePressin kanssa"
+
+#: views/view-list.php:63
+msgid "Attention!"
+msgstr "Huomio!"
+
+#: views/view-list.php:56 views/view-list.php:93
+msgid "Hide this message"
+msgstr "Piilota tämä viesti"
+
+#: views/view-list.php:55
+msgid "If you encounter any questions or problems, please visit the <a href=\"%1$s\">FAQ</a>, the <a href=\"%2$s\">documentation</a>, and the <a href=\"%3$s\">Support</a> section on the <a href=\"%4$s\">plugin website</a>."
+msgstr "Ongelmatilanteissa katso ensin <a href=\"%1$s\">UKK</a>, <a href=\"%2$s\">TablePressin ohjeet</a> ja <a href=\"%3$s\">tukiohjeet</a> <a href=\"%4$s\">lisäosan sivuilta</a>."
+
+#: views/view-list.php:54
+msgid "Thank you for using TablePress for the first time!"
+msgstr "Kiitos kun käytät TablePressiä ensimmäisen kerran!"
+
+#: views/view-list.php:53
+msgid "Welcome!"
+msgstr "Tervetuloa!"
+
+#: views/view-list.php:47
+msgid "No problem! I still hope you enjoy the benefits that TablePress adds to your site. If you should change your mind, you&#8217;ll always find the &#8220;Donate&#8221; button on the <a href=\"%s\">TablePress website</a>."
+msgstr "Ei huolta! Toivottavasti silti pidät TablePressin tuomista eduista. Jos muutat mielesi, lahjoitusnappi löytyy aina <a href=\"%s\">TablePressin nettisivuilta</a>."
+
+#: views/view-list.php:46
+msgid "Thank you very much! Your donation is highly appreciated. You just contributed to the further development of TablePress!"
+msgstr "Kiitos paljon! Arvostan lahjoitustasi kovasti. Osallistuit juuri TablePressin kehitykseen!"
+
+#: views/view-list.php:45
+msgid "To embed this table into a post or page, use this Shortcode:"
+msgstr "Lisätäksesi tämän taulukon artikkeliin tai sivulle, käytä tätä lyhytkoodia:"
+
+#: views/view-import.php:295
+msgid "You can import your existing tables and &#8220;Custom CSS&#8221; from WP-Table Reloaded into TablePress."
+msgstr "Voit tuoda olemassaolevat taulukot ja omat CSS-koodit WP-Table Reloadedista TablePressiin."
+
+#: views/view-import.php:294
+msgid "TablePress Feature: Import from WP-Table Reloaded"
+msgstr "TablePressin ominaisuus: tuo WP-Table Reloadedista"
+
+#: views/view-import.php:277
+msgctxt "button"
+msgid "Import from WP-Table Reloaded"
+msgstr "Tuo WP-Table Reloadedista"
+
+#: views/view-import.php:273
+msgid "Try to automatically convert the &#8220;Custom CSS&#8221; code from the &#8220;Plugin Options&#8221; screen of WP-Table Reloaded."
+msgstr "Yritä automaattisesti siirtää oma CSS-koodi WP-Table Reloadedin &#8220;lisäosa-asetuksista&#8221;."
+
+#: views/view-import.php:272
+msgid "Import styling"
+msgstr "Tuo tyyli"
+
+#: views/view-import.php:269
+msgid "Import all tables and their settings from WP-Table Reloaded."
+msgstr "Tuo kaikki taulukot ja niiden asetukset WP-Table Reloadedista."
+
+#: views/view-import.php:268
+msgid "Import tables"
+msgstr "Tuo taulukot"
+
+#: views/view-import.php:254
+msgid "WP-Table Reloaded Dump File"
+msgstr "WP-Table Reloadedin dump-tiedosto"
+
+#: views/view-import.php:253
+msgid "WordPress database"
+msgstr "WordPressin tietokanta"
+
+#: views/view-import.php:246
+msgid "Before doing this, it is highly recommended to read the <a href=\"%s\">migration guide</a> on the TablePress website."
+msgstr "Ennen kuin teet tämän, kannattaa lukea <a href=\"%s\">siirto-ohjeet</a> TablePressin nettisivuilta."
+
+#: views/view-import.php:244
+msgid "If you want to import tables from another site, create a &#8220;WP-Table Reloaded Dump File&#8221; there and upload it below, after choosing &#8220;WP-Table Reloaded Dump File&#8221;."
+msgstr "Jos haluat tuoda taulukoita toiselta sivulta, luo lähtösivustolla &#8220;WP-Table Reloadedin dump-tiedosto&#8221;, valitse tästä &#8220;WP-Table Reloadedin dump-tiedosto&#8221; ja lähetä sitten tiedosto alta."
+
+#: views/view-import.php:243
+msgid "If WP-Table Reloaded is installed on this site, the &#8220;WordPress database&#8221; option is recommended."
+msgstr "Jos WP-Table Reloaded on asennettu tällle sivulle, suosittelemme käyttämään &#8220;WordPressin tietokanta&#8221; -valintaa."
+
+#: views/view-import.php:241
+msgid "To import all tables from a WP-Table Reloaded installation, choose the relevant import source below."
+msgstr "Valitse alta oikea tietolähde, niin voimme tuoda taulukot WP-Table Reloaded-asennuksesta."
+
+#: views/view-import.php:223
+msgctxt "button"
+msgid "Import"
+msgstr "Tuo"
+
+#: views/view-import.php:203
+msgid "&mdash; Select &mdash;"
+msgstr "&mdash; Valitse &mdash;"
+
+#: views/view-import.php:200
+msgid "Table to replace or append to"
+msgstr "Taulukko, joka korvataan tai johon lisätään"
+
+#: views/view-import.php:196
+msgid "Append rows to existing table"
+msgstr "Lisää rivit olemassaolevaan taulukkoon"
+
+#: views/view-import.php:195
+msgid "Replace existing table"
+msgstr "Korvaa olemassaoleva taulukko"
+
+#: views/view-import.php:194
+msgid "Add as new table"
+msgstr "Lisää uutena taulukkona"
+
+#: views/view-import.php:192
+msgid "Add, Replace, or Append?"
+msgstr "Lisää uusi, korvaa vai lisää taulukkoon?"
+
+#: views/view-import.php:186
+msgid "Import of HTML files is not available on your server."
+msgstr "HTML-tiedostojen tuonti ei ole sallittu palvelimellasi."
+
+#: views/view-import.php:174
+msgid "Import Format"
+msgstr "Tuontimuoto"
+
+#: views/view-import.php:168
+msgid "Import data"
+msgstr "Tuo dataa"
+
+#: views/view-import.php:157
+msgid "Server Path to file"
+msgstr "Palvelimen polku tiedostoon"
+
+#: views/view-import.php:146
+msgid "File URL"
+msgstr "Tiedoston URL"
+
+#: views/view-import.php:140 views/view-import.php:151
+#: views/view-import.php:162
+msgid "You can import multiple tables by placing them in a ZIP file."
+msgstr "Voit tuoda useita taulukoita tekemällä niistä ZIP-tiedosto."
+
+#: views/view-import.php:135 views/view-import.php:258
+msgid "Select file"
+msgstr "Valitse tiedosto"
+
+#: views/view-import.php:131
+msgid "Manual Input"
+msgstr "Syötä käsin"
+
+#: views/view-import.php:130
+msgid "File on server"
+msgstr "Tiedosto palvelimella"
+
+#: views/view-import.php:129
+msgid "URL"
+msgstr "URL"
+
+#: views/view-import.php:128
+msgid "File Upload"
+msgstr "Tiedoston lataus"
+
+#: views/view-import.php:126 views/view-import.php:251
+msgid "Import Source"
+msgstr "Tuontilähde"
+
+#: views/view-import.php:105
+msgid "You can also choose to import it as a new table, to replace an existing table, or to append the rows to an existing table."
+msgstr "Voit myös tuoda sen uutena taulukkona, korvata olemassaolevan taulukon tai lisätä rivit olemassaolevaan taulukkoon."
+
+#: views/view-import.php:102
+msgid "To import a table, select and enter the import source in the following form."
+msgstr "Tuo taulukko valitsemalla ja syöttämällä tuontilähde alla olevalla lomakkeella."
+
+#: views/view-import.php:98
+msgid "You can also import existing tables from the WP-Table Reloaded plugin below."
+msgstr "Voit myös tuoda olemassaolevia taulukoita WP-Table Reloaded -lisäosasta."
+
+#: views/view-import.php:97
+msgid "TablePress can import tables from existing data, like from a CSV, XLS, or XLSX file from a spreadsheet application (e.g. Excel), an HTML file resembling a webpage, or its own JSON format."
+msgstr "TablePress voi tuoda olemassaolevia taulukoita monista eri muodoista: CSV, XLS tai XLSX -tiedostot taulukkolaskennasta (kuten Excel), HTML-muotoiset nettisivut tai TablePressin oma JSON-muoto."
+
+#: views/view-import.php:65
+msgid "Import from WP-Table Reloaded"
+msgstr "Tuo taulukoita WP-Table Reloadedista"
+
+#: views/view-import.php:63
+msgid "Import Tables"
+msgstr "Tuo taulukoita"
+
+#: views/view-import.php:59
+msgid "Error: The WP-Table Reloaded Dump File could not be imported!"
+msgstr "Virhe: WP-Table Reloadedin dump-tiedostoa ei voitu tuoda."
+
+#: views/view-import.php:58
+msgid "Error: The tables from WP-Table Reloaded could not be imported."
+msgstr "Virhe: WP-Table Reloadedin taulukoita ei voitu tuoda."
+
+#: views/view-import.php:57
+msgid "Error: Existing WP-Table Reloaded tables were not found in the database."
+msgstr "Virhe: Tietokannasta ei löytynyt WP-Table Reloaded -taulukoita."
+
+#: views/view-import.php:55
+msgid "Error: The data for the import is invalid."
+msgstr "Virhe: Tuontidata ei kelpaa."
+
+#: views/view-import.php:54
+msgid "Error: The source for the import is invalid or could not be accessed."
+msgstr "Virhe: Tuonnin lähde ei kelpaa tai siihen ei pääse käsiksi."
+
+#: views/view-import.php:53
+msgid "Error: You selected to replace or append to an existing table, but did not select a table."
+msgstr "Virhe: Valitsit korvata olemassaolevan taulukon, mutta et valinnut taulukkoa."
+
+#: views/view-import.php:52
+msgid "Error: The data in the ZIP file is invalid."
+msgstr "Virhe: Data ZIP-tiedostossa ei kelpaa."
+
+#: views/view-import.php:51
+msgid "Error: The ZIP file could not be opened."
+msgstr "Virhe: ZIP-tiedostoa ei voitu avata."
+
+#: views/view-import.php:50
+msgid "Error: Import of ZIP files is not available on this server."
+msgstr "Virhe: ZIP-tiedostojen tuonti ei ole mahdollista palvelimella."
+
+#: views/view-import.php:49
+msgid "Error: The import failed."
+msgstr "Virhe: tuonti epäonnistui."
+
+#: views/view-import.php:44 views/view-import.php:56
+msgid "Error: You did not select what to import from WP-Table Reloaded!"
+msgstr "Virhe: Et valinnut, mitä haluat tuoda WP-Table Reloadedista!"
+
+#: views/view-export.php:182
+msgid "Note: Support for ZIP file creation seems not to be available on this server."
+msgstr "Huomaa: ZIP-tiedoston luominen ei näytä olevan mahdollista palvelimella."
+
+#: views/view-export.php:179
+msgid "(Mandatory if more than one table is selected.)"
+msgstr "(Pakollinen, jos viedään useampi kuin yksi taulukko.)"
+
+#: views/view-export.php:179
+msgid "Create a ZIP archive."
+msgstr "Luo ZIP-tiedosto"
+
+#: views/view-export.php:173
+msgid "ZIP file"
+msgstr "ZIP-tiedosto"
+
+#: views/view-export.php:169
+msgid "(Only needed for CSV export.)"
+msgstr "(Vaaditaan ainoastaan CVS-viennille.)"
+
+#: views/view-export.php:160
+msgid "CSV Delimiter"
+msgstr "CVS-erotinmerkki"
+
+#: views/view-export.php:147
+msgid "Export Format"
+msgstr "Vientimuoto"
+
+#: views/view-export.php:141
+msgid "You can select multiple tables by holding down the &#8220;Ctrl&#8221; key (Windows) or the &#8220;Command&#8221; key (Mac)."
+msgstr "Voit valita useita taulukoita painamalla pohjaan &#8220;Ctrl&#8221;-näppäimen (Windows) tai &#8220;Command&#8221;-näppäimen (Mac)."
+
+#: views/view-export.php:133 views/view-import.php:213
+msgid "ID %1$s: %2$s"
+msgstr "ID %1$s: %2$s"
+
+#: views/view-export.php:110
+msgid "Select all"
+msgstr "Valitse kaikki"
+
+#: views/view-export.php:107
+msgid "Tables to Export"
+msgstr "Vietävät taulukot"
+
+#: views/view-export.php:89 views/view-list.php:608
+msgid "You should <a href=\"%s\">add</a> or <a href=\"%s\">import</a> a table to get started!"
+msgstr "<a href=\"%s\">Lisää</a> tai <a href=\"%s\">tuo</a> taulukko päästäksesi alkuun!"
+
+#: views/view-export.php:71
+msgid "For the JSON format, the table data and the table options are exported."
+msgstr "JSON-formaatissa viedään taulukoiden sisältö ja asetukset."
+
+#: views/view-export.php:70
+msgid "Be aware that for the CSV and HTML formats only the table data, but no table options are exported!"
+msgstr "CVS- ja HTML-muodoissa viedään ainoastaan taulukoiden sisältö, mutta ei niiden asetuksia!"
+
+#: views/view-export.php:68
+msgid "If you choose more than one table, the exported files will automatically be stored in a ZIP archive file."
+msgstr "Jos valitset useamman kuin yhden taulukon, viedyt taulukot kootaan automaattisesti ZIP-tiedostoon."
+
+#: views/view-export.php:67
+msgid "To export, select the tables and the desired export format."
+msgstr "Valitse taulukot ja haluttu vientimuoto."
+
+#: views/view-export.php:64
+msgid "Regularly exporting tables is also recommended as a backup of your data."
+msgstr "Taulukoiden vieminen säännöllisesti on hyvä tapa varmuuskopioida taulukkosi."
+
+#: views/view-export.php:63
+msgid "Exporting a table allows you to use it in other programs, like spreadsheets applications."
+msgstr "Taulukon vienti mahdollistaa sen käytön muissa ohjelmissa."
+
+#: views/view-export.php:47
+msgctxt "button"
+msgid "Download Export File"
+msgstr "Lataa vientitiedosto"
+
+#: views/view-export.php:43 views/view-export.php:46
+msgid "Export Tables"
+msgstr "Vie taulukoita"
+
+#: views/view-export.php:38
+msgid "Error: The ZIP file could not be created."
+msgstr "Virhe: ZIP-tiedostoa ei voitu luoda."
+
+#: views/view-export.php:37
+msgid "Error: The internal data of this table is corrupted!"
+msgstr "Virhe: Taulukon sisäinen rakenne on viallinen!"
+
+#: views/view-export.php:36 views/view-list.php:106
+msgid "Error: This table could not be loaded!"
+msgstr "Virhe: Tätä taulukkoa ei voitu ladata."
+
+#: views/view-export.php:35
+msgid "Error: The export failed."
+msgstr "Virhe: Vienti epäonnistui."
+
+#: views/view-editor_button_thickbox.php:386
+msgid "You should add or import a table on the TablePress screens to get started!"
+msgstr "Lisää tai tuo taulukoita TablePressiin päästäksesi alkuun."
+
+#: views/view-editor_button_thickbox.php:384 views/view-export.php:88
+#: views/view-list.php:599
+msgid "No tables found."
+msgstr "Taulukoita ei löytynyt."
+
+#: views/view-editor_button_thickbox.php:361 views/view-list.php:461
+msgid "(no description)"
+msgstr "(ei kuvausta)"
+
+#: views/view-editor_button_thickbox.php:285
+msgid "Action"
+msgstr "Toiminto"
+
+#: views/view-editor_button_thickbox.php:282 views/view-list.php:320
+msgid "ID"
+msgstr "ID"
+
+#: views/view-editor_button_thickbox.php:189 views/view-list.php:213
+msgid "Search Tables"
+msgstr "Etsi taulukoita"
+
+#: views/view-editor_button_thickbox.php:183 views/view-list.php:205
+msgid "Search results for &#8220;%s&#8221;"
+msgstr "Tulokset haulle &#8220;%s&#8221;"
+
+#: views/view-editor_button_thickbox.php:179
+#: views/view-editor_button_thickbox.php:375
+msgid "Insert Shortcode"
+msgstr "Lisää lyhytkoodi"
+
+#: views/view-editor_button_thickbox.php:179
+msgid "Click the &#8220;%1$s&#8221; button for the desired table to automatically insert the<br />corresponding Shortcode (%2$s) into the editor."
+msgstr "Paina &#8220;%1$s&#8221;-nappia halutulle taulukolle lisätäksesi<br />lyhytkoodin (%2$s) automaattisesti tekstimuokkaimeen."
+
+#: views/view-editor_button_thickbox.php:177
+msgid "You may insert a table into a post or page here."
+msgstr "Voit lisätä taulukon artikkeliin tai sivulle tästä."
+
+#: views/view-editor_button_thickbox.php:177
+msgid "This is a list of all available tables."
+msgstr "Tämä on lista kaikista taulukoista."
+
+#: views/view-editor_button_thickbox.php:68
+#: views/view-editor_button_thickbox.php:174
+msgid "List of Tables"
+msgstr "Lista taulukoista"
+
+#: views/view-edit.php:684
+msgid "Did you know? You can drag and drop rows and columns via the row number and the column title. And the arrows next to the column title can be used for sorting."
+msgstr "Tiesitkö? Voit siirtää rivejä ja sarakkeita raahaamalla rivinumerosta ja sarakkeen otsikosta. Sarakkeen otsikon vieressä olevia nuolia voi käyttää taulukon järjestämiseen."
+
+#: views/view-edit.php:683
+msgid "TablePress Feature: Moving rows and columns"
+msgstr "TablePressin ominaisuus: Siirrä rivejä ja sarakkeita"
+
+#: views/view-edit.php:672
+msgid "To insert the table into a page, post, or text widget, copy the Shortcode %s and paste it at the desired place in the editor."
+msgstr "Voit lisätä taulukon sivulle, artikkeliin tai vimpaimeen kopioimalla lyhytkoodin %s ja lisäämällä sen haluttuun paikkaan muokkaimessa."
+
+#: views/view-edit.php:669
+msgid "For example, you can insert things like text, images, or links into the table, or change the used table features. You can also insert, delete, move, hide, and swap columns and rows."
+msgstr "Voit esimerkiksi lisätä tekstiä, kuvia tai linkkejä taulukkoon tai vaihtaa taulukon ominaisuuksia. Voit myös lisätä, poistaa, siirtää, piilottaa tai vaihtaa sarakkeita ja rivejä."
+
+#: views/view-edit.php:668
+msgid "On this screen, you can edit the content and structure of the table with the ID %s."
+msgstr "Voit muokata taulukon %s sisältöä ja rakennetta."
+
+#: views/view-edit.php:650
+msgid "Back to the List of Tables"
+msgstr "Takaisin taulukkolistaan"
+
+#: views/view-edit.php:645
+msgid "Please see the <a href=\"%s\">TablePress FAQ page</a> for further instructions."
+msgstr "Löydät tarkempia ohjeita <a href=\"%s\">TablePressin UKK-sivulta</a>."
+
+#: views/view-edit.php:643
+msgid "Because of this error, the table can not be edited at this time, to prevent possible further data loss."
+msgstr "Tämän virheen vuoksi taulukkoa ei voi muokata nyt, jotta vältetään tietojen menetys."
+
+#: views/view-edit.php:636
+msgid "The internal data of table &#8220;%1$s&#8221; (ID %2$s) is corrupted."
+msgstr "Taulukon &#8220;%1$s&#8221; (ID %2$s) sisältö on korruptoitunut."
+
+#: views/view-edit.php:633
+msgid "Attention: Unfortunately, an error occurred."
+msgstr "Huomio: Valitettavasti tapahtui virhe."
+
+#: views/view-edit.php:615
+msgid "For advanced use only."
+msgstr "Edistyneille käyttäjille."
+
+#: views/view-edit.php:614
+msgid "Custom Commands"
+msgstr "Lisäkomennot"
+
+#: views/view-edit.php:608
+msgid "Enable horizontal scrolling, to make viewing tables with many columns easier."
+msgstr "Salli vaakasuuntaan vieritys, mikä tekee monisarakkeisten taulujen katselemisesta helpompaa."
+
+#: views/view-edit.php:607
+msgid "Horizontal Scrolling"
+msgstr "Vaakasuuntainen vieritys"
+
+#: views/view-edit.php:604
+msgid "Enable the table information display, with information about the currently visible data, like the number of rows."
+msgstr "Näytä taulukon tiedot, joka näyttää tietoja näkyvillä olevasta sisällöstä, kuten rivien lukumäärästä."
+
+#: views/view-edit.php:603
+msgid "Info"
+msgstr "Taulukon tiedot"
+
+#: views/view-edit.php:600
+msgid "Allow the visitor to change the number of rows shown when using pagination."
+msgstr "Anna vierailijan vaihtaa sivulla näytettävien rivien lukumäärä, kun käytetään sivutusta."
+
+#: views/view-edit.php:599
+msgid "Pagination Length Change"
+msgstr "Näkyvien rivien määrän vaihto"
+
+#: views/view-edit.php:596
+msgid "Show %s rows per page."
+msgstr "Näytä %s riviä sivulla."
+
+#: views/view-edit.php:595
+msgid "Enable pagination of the table (viewing only a certain number of rows at a time) by the visitor."
+msgstr "Kytke sivutus (näkyvillä olevien rivien määrän rajoittaminen) päälle."
+
+#: views/view-edit.php:594
+msgid "Pagination"
+msgstr "Sivutus"
+
+#: views/view-edit.php:591
+msgid "Enable the visitor to filter or search the table. Only rows with the search word in them are shown."
+msgstr "Anna vierailijan käyttää hakua ja suodatusta. Ainoastaan rivit, joissa on hakusana, näytetään."
+
+#: views/view-edit.php:590
+msgid "Search/Filtering"
+msgstr "Haku ja suodatus"
+
+#: views/view-edit.php:587
+msgid "Enable sorting of the table by the visitor."
+msgstr "Vierailijat voivat vaihtaa taulukon järjestystä."
+
+#: views/view-edit.php:586
+msgid "Sorting"
+msgstr "Lajittelu"
+
+#: views/view-edit.php:583
+msgid "Use the following features of the DataTables JavaScript library with this table:"
+msgstr "Käytä seuraavia ominaisuuksia DataTables-kirjastosta tässä taulukossa:"
+
+#: views/view-edit.php:582
+msgid "Use DataTables"
+msgstr "Käytä DataTablesia"
+
+#: views/view-edit.php:578
+msgid "These features and options are only available, when the &#8220;%1$s&#8221; checkbox in the &#8220;%2$s&#8221; section is checked."
+msgstr "Nämä ominaisuudet ovat käytössä vain kun &#8220;%1$s&#8221; täppä &#8220;%2$s&#8221; osiossa on valittu."
+
+#: views/view-edit.php:560
+msgid "This is NOT the place to enter <a href=\"%s\">Custom CSS</a> code!"
+msgstr "Älä lisää tähän kohtaan <a href=\"%s\">omaa CSS-koodia</a>!"
+
+#: views/view-edit.php:560
+msgid "Additional CSS classes for styling purposes can be entered here."
+msgstr "Voit lisätä tähän oman CSS-luokan taulukolle."
+
+#: views/view-edit.php:560
+msgid "This field can only contain letters, numbers, spaces, hyphens (-), and underscores (_)."
+msgstr "Tämä kenttä voi sisältää vain kirjaimia, numeroita, välilyöntejä, väliviivoja (-) ja alaviivoja (_)."
+
+#: views/view-edit.php:559
+msgid "Extra CSS Classes"
+msgstr "Omat CSS-luokat"
+
+#: views/view-edit.php:556
+msgid "Show the table description %s the table."
+msgstr "Näytä taulukon kuvaus taulukon %s."
+
+#: views/view-edit.php:549
+msgid "Print Table Description"
+msgstr "Näytä taulukon kuvaus"
+
+#: views/view-edit.php:546
+msgid "Show the table name %s the table."
+msgstr "Näytä taulukon nimi taulukon %s."
+
+#: views/view-edit.php:543 views/view-edit.php:553
+msgid "below"
+msgstr "alapuolella"
+
+#: views/view-edit.php:542 views/view-edit.php:552
+msgid "above"
+msgstr "yläpuolella"
+
+#: views/view-edit.php:539
+msgid "Print Table Name"
+msgstr "Näytä taulukon nimi"
+
+#: views/view-edit.php:536
+msgid "Highlight a row while the mouse cursor hovers above it by changing its background color."
+msgstr "Korosta rivi kun hiiren osoitin on sen päällä muuttamalla taustaväri."
+
+#: views/view-edit.php:535
+msgid "Row Hover Highlighting"
+msgstr "Osoitetun rivin korostus"
+
+#: views/view-edit.php:532
+msgid "The background colors of consecutive rows shall alternate."
+msgstr "Peräkkäisten rivien taustavärit vuorottelevat."
+
+#: views/view-edit.php:531
+msgid "Alternating Row Colors"
+msgstr "Vuorottelevat rivivärit"
+
+#: views/view-edit.php:528
+msgid "The last row of the table is the table footer."
+msgstr "Taulukon viimeinen rivi on footer-rivi."
+
+#: views/view-edit.php:527
+msgid "Table Foot Row"
+msgstr "Taulukon alarivi"
+
+#: views/view-edit.php:524
+msgid "The first row of the table is the table header."
+msgstr "Taulukon ensimmäinen rivi on otsikkorivi."
+
+#: views/view-edit.php:523 views/view-edit.php:578
+msgid "Table Head Row"
+msgstr "Taulukon otsikkorivi"
+
+#: views/view-edit.php:499
+msgid "OK"
+msgstr "OK"
+
+#: views/view-edit.php:498
+msgid "Cancel"
+msgstr "Keskeytä"
+
+#: views/view-edit.php:470
+msgid "Delete Table"
+msgstr "Poista taulukko"
+
+#: views/view-edit.php:467
+msgid "Export Table"
+msgstr "Vie taulukko"
+
+#: views/view-edit.php:464
+msgid "Copy Table"
+msgstr "Kopioi taulukko"
+
+#: views/view-edit.php:462
+msgid "Other Actions"
+msgstr "Muut toiminnot"
+
+#: views/view-edit.php:418
+msgid "To use the Table Manipulation features, JavaScript needs to be enabled in your browser."
+msgstr "JavaScriptin pitää olla sallittuna selaimessasi, jotta voit käyttää taulukonmuokkausominaisuuksia."
+
+#: views/view-edit.php:414
+msgid "Add %s column(s)"
+msgstr "Lisää %s saraketta"
+
+#: views/view-edit.php:411 views/view-edit.php:414
+msgid "Add"
+msgstr "Lisää"
+
+#: views/view-edit.php:411
+msgid "Add %s row(s)"
+msgstr "Lisää %s riviä"
+
+#: views/view-edit.php:400 views/view-edit.php:406 views/view-list.php:442
+msgid "Delete"
+msgstr "Poista"
+
+#: views/view-edit.php:399 views/view-edit.php:405
+msgid "Insert"
+msgstr "Lisää"
+
+#: views/view-edit.php:398 views/view-edit.php:404
+msgid "Duplicate"
+msgstr "Monista"
+
+#: views/view-edit.php:390 views/view-edit.php:403
+msgid "Selected columns"
+msgstr "Valitut sarakkeet"
+
+#: views/view-edit.php:387 views/view-edit.php:392
+msgid "Show"
+msgstr "Näytä"
+
+#: views/view-edit.php:386 views/view-edit.php:391
+msgid "Hide"
+msgstr "Piilota"
+
+#: views/view-edit.php:385 views/view-edit.php:397
+msgid "Selected rows"
+msgstr "Valitut rivit"
+
+#: views/view-edit.php:379
+msgid "Be aware that the functions of the DataTables JavaScript library will not work on tables which have combined cells."
+msgstr "Huomioi, että DataTables-kirjaston toiminnot eivät toimi taulukoissa, joissa on yhdistettyjä soluja."
+
+#: views/view-edit.php:378
+msgid "Repeat this to add the keyword to all cells that shall be connected."
+msgstr "Lisää avainasana kaikkiin yhdistettäviin soluihin."
+
+#: views/view-edit.php:377
+msgid "To combine adjacent cells in a column, add the keyword <code>#rowspan#</code> to the cell below the one with the content for the combined cell by using the corresponding button."
+msgstr "Jos haluat yhdistää sarakkeen vierekkäisiä soluja, lisää avainsana <code>#rowspan#</code> sisältösolun alla olevaan soluun käyttämällä rowspan-nappia."
+
+#: views/view-edit.php:376
+msgid "To combine adjacent cells in a row, add the keyword <code>#colspan#</code> to the cell to the right of the one with the content for the combined cell by using the corresponding button."
+msgstr "Jos haluat yhdistää rivin vierekkäisiä soluja, lisää avainsana <code>#colspan#</code> sisältösolun oikealla puolella olevaan soluun käyttämällä colspan-nappia."
+
+#: views/view-edit.php:375
+msgid "Combining consecutive cells within the same column is called &#8220;rowspanning&#8221;."
+msgstr "Samassa sarakkeessa olevien vierekkäisten solujen yhdistäminen on &#8220;rowspan&#8221;."
+
+#: views/view-edit.php:374
+msgid "Combining consecutive cells within the same row is called &#8220;colspanning&#8221;."
+msgstr "Samalla rivillä olevien vierekkäisten solujen yhdistäminen on &#8220;colspan&#8221;."
+
+#: views/view-edit.php:373
+msgid "Table cells can span across more than one column or row."
+msgstr "Taulukon solut voivat levitä useampaan sarakkeeseen tai monelle riville."
+
+#: views/view-edit.php:371
+msgid "Help on combining cells"
+msgstr "Apua solujen yhdistämiseen"
+
+#: views/view-edit.php:371
+msgid "?"
+msgstr "?"
+
+#: views/view-edit.php:370
+msgid "in a row (colspan)"
+msgstr "rivillä (colspan)"
+
+#: views/view-edit.php:369
+msgid "in a column (rowspan)"
+msgstr "sarakkeessa (rowspan)"
+
+#: views/view-edit.php:368
+msgid "Combine cells"
+msgstr "Yhdistä soluja"
+
+#: views/view-edit.php:365
+msgid "Advanced Editor"
+msgstr "Edistynyt muokkain"
+
+#: views/view-edit.php:364
+msgid "Insert Image"
+msgstr "Lisää kuva"
+
+#: views/view-edit.php:363
+msgid "Insert Link"
+msgstr "Lisää linkki"
+
+#: views/view-edit.php:231
+msgid "%1$s by %2$s"
+msgstr "%1$s, muokkaaja %2$s"
+
+#: views/view-edit.php:230 views/view-list.php:325
+msgid "Last Modified"
+msgstr "Muokattu viimeksi"
+
+#: views/view-edit.php:217
+msgid "Shortcode"
+msgstr "Lyhytkoodi"
+
+#: views/view-edit.php:216
+msgid "The Table ID can only consist of letters, numbers, hyphens (-), and underscores (_)."
+msgstr "Taulukon ID voi sisältää vain kirjaimia, numeroita, väliviivoja (-) ja alaviivoja (_)."
+
+#: views/view-edit.php:213
+msgid "Table ID"
+msgstr "Taulukon ID"
+
+#: views/view-edit.php:157
+msgid "Features of the DataTables JavaScript library"
+msgstr "DataTables-kirjaston ominaisuudet"
+
+#: views/view-edit.php:156 views/view-edit.php:578
+msgid "Table Options"
+msgstr "Taulukon tiedot"
+
+#: views/view-edit.php:155
+msgid "Table Manipulation"
+msgstr "Taulukon muokkaus"
+
+#: views/view-edit.php:154
+msgid "Table Content"
+msgstr "Taulukon sisältö"
+
+#: views/view-edit.php:153
+msgid "Table Information"
+msgstr "Taulukon tiedot"
+
+#: views/view-edit.php:145
+msgid "You can not connect cells out of the table foot row!"
+msgstr "Taulukon footer-riviltä ei voi yhdistää soluja!"
+
+#: views/view-edit.php:144
+msgid "You can not connect cells into the table head row!"
+msgstr "Et voi yhdistää soluja taulukon otsikkoriviin!"
+
+#: views/view-edit.php:143
+msgid "You can not add colspan to the first column!"
+msgstr "Et voi lisätä colspania ensimmäiseen sarakkeeseen!"
+
+#: views/view-edit.php:142
+msgid "You can not add rowspan to the first row!"
+msgstr "Et voi lisätä rowspania ensimmäiseen riviin!"
+
+#: views/view-edit.php:141 views/view-edit.php:285
+msgid "Sort descending"
+msgstr "Laskeva järjestys"
+
+#: views/view-edit.php:140 views/view-edit.php:285
+msgid "Sort ascending"
+msgstr "Nouseva järjestys"
+
+#: views/view-edit.php:139
+msgid "The entered value in the field &#8220;Pagination Entries&#8221; is not a number."
+msgstr "Sivutuksen rivien lukumäärä ei ole numero."
+
+#: views/view-edit.php:138
+msgid "The entered value in the field &#8220;Extra CSS classes&#8221; is invalid."
+msgstr "&#8220;Omat CSS-luokat&#8221; -asetuksessa on kelvoton arvo."
+
+#: views/view-edit.php:137
+msgid "Do you really want to change the Table ID? All Shortcodes for this table in your pages and posts will have to be adjusted!"
+msgstr "Oletko varma, että haluat muuttaa taulukon ID:n? Kaikki tähän tauluun viittaavat lyhytkoodit artikkeleissa ja sivuilla täytyy muuttaa!"
+
+#: views/view-edit.php:136
+msgid "The Table ID &#8220;0&#8221; is not supported. Please enter a different Table ID!"
+msgstr "Taulukon ID ei voi olla &#8220;0&#8221;. Syötä joku muu ID!"
+
+#: views/view-edit.php:135
+msgid "The Table ID field can not be empty. Please enter a Table ID!"
+msgstr "Taulukon ID-kenttä ei voi olla tyhjä. Lisää taulukon ID!"
+
+#: views/view-edit.php:134
+msgid "Changes are being saved..."
+msgstr "Muutoksia tallennetaan..."
+
+#: views/view-edit.php:133
+msgid "Saving failed"
+msgstr "Tallennus epäonnistui"
+
+#: views/view-edit.php:132
+msgid "Saving successful"
+msgstr "Tallennus onnistui"
+
+#: views/view-edit.php:131
+msgid "The Table Preview could not be loaded."
+msgstr "Esikatselua ei voitu ladata."
+
+#: views/view-edit.php:130
+msgid "The Table Preview is being loaded..."
+msgstr "Esikatselua ladataan..."
+
+#: views/view-edit.php:129
+msgid "The changes to this table were not saved yet and will be lost if you navigate away from this page."
+msgstr "Taulukkoon tehtyjä muutoksia ei ole vielä tallennettu. Muutokset menetetään jos poistut sivulta."
+
+#: views/view-edit.php:128 views/view-edit.php:182
+msgid "Insert into Table"
+msgstr "Lisää taulukkoon"
+
+#: views/view-edit.php:128
+msgid "Click the &#8220;%s&#8221; button to insert the image."
+msgstr "Paina &#8220;%s&#8221; -nappia lisätäksesi kuvan."
+
+#: views/view-edit.php:127
+msgid "The Media Library will open, where you can select or upload the desired image or enter the image URL."
+msgstr "Mediakirjasto aukeaa, ja voit valita tai ladata kuvan, tai syöttää kuvan URLin."
+
+#: views/view-edit.php:126
+msgid "Please click into the cell that you want to add an image to."
+msgstr "Valitse solu, johon haluat liittää kuvan."
+
+#: views/view-edit.php:125
+msgid "You can then enter the Link URL and Text or choose an existing page or post."
+msgstr "Voit syöttää linkin URL:n ja tekstin tai valita olemassaolevan sivun tai artikkelin."
+
+#: views/view-edit.php:124
+msgid "Please click into the cell that you want to add a link to."
+msgstr "Valitse solu, johon haluat lisätä linkin."
+
+#: views/view-edit.php:123
+msgid "Do you want to proceed and automatically turn off the usage of DataTables for this table?"
+msgstr "Haluatko jatkaa ja poistaa automaattisesti DataTablesin käytöstä tässä taulukossa?"
+
+#: views/view-edit.php:122
+msgid "Unfortunately, these can not be used in tables with combined cells."
+msgstr "Valitettavasti näitä ominaisuuksia ei voi käyttää taulukossa, jossa on yhdistettyjä soluja."
+
+#: views/view-edit.php:121
+msgid "Attention: You have enabled the usage of the DataTables JavaScript library for features like sorting, search, or pagination."
+msgstr "Huomio: Olet ottanut käyttää DataTables-kirjaston ominaisuuksia, kuten lajittelu, haku tai sivutus."
+
+#: views/view-edit.php:120
+msgid "To combine cells within a row, click into the cell to the right of the cell that has the content the combined cells shall have."
+msgstr "Jos haluat yhdistää rivillä olevia soluja, valitse yhdistettävien solujen sisällön sisältävän solun oikealla puolella oleva solu."
+
+#: views/view-edit.php:119
+msgid "To combine cells within a column, click into the cell below the cell that has the content the combined cells shall have."
+msgstr "Jos haluat yhdistää sarakkeessa olevia soluja, valitse yhdistettävien solujen sisällön sisältävän solun alla oleva solu."
+
+#: views/view-edit.php:118
+msgid "Please click into the cell that you want to edit using the &#8220;Advanced Editor&#8221;."
+msgstr "Valitse solu, jota haluat muokata &#8220;Edistyneellä muokkaimella&#8221;."
+
+#: views/view-edit.php:116 views/view-edit.php:117
+msgid "Do you really want to delete the selected column?"
+msgid_plural "Do you really want to delete the selected columns?"
+msgstr[0] "Haluatko todella poistaa sarakkeen?"
+msgstr[1] "Haluatko todella poistaa sarakkeet?"
+
+#: views/view-edit.php:114 views/view-edit.php:115
+msgid "Do you really want to delete the selected row?"
+msgid_plural "Do you really want to delete the selected rows?"
+msgstr[0] "Haluatko todella poistaa rivin?"
+msgstr[1] "Haluatko todella poistaa rivit?"
+
+#: views/view-edit.php:113
+msgid "The value for the number of columns is invalid!"
+msgstr "Sarakkeiden lukumäärä on virheellinen!"
+
+#: views/view-edit.php:112
+msgid "The value for the number of rows is invalid!"
+msgstr "Rivien lukumäärä on virheellinen!"
+
+#: views/view-edit.php:111
+msgid "You did not select any columns!"
+msgstr "Et valinnut yhtään saraketta!"
+
+#: views/view-edit.php:110
+msgid "You did not select any rows!"
+msgstr "Et valinnut yhtään riviä!"
+
+#: views/view-edit.php:109
+msgid "You can not delete all table columns!"
+msgstr "Et voi poistaa kaikkia sarakkeita!"
+
+#: views/view-edit.php:108
+msgid "You can not delete all table rows!"
+msgstr "Et voi poistaa kaikkia rivejä!"
+
+#: views/view-edit.php:56
+msgid "The table was saved successfully, but the table ID could not be changed!"
+msgstr "Tallennus onnistui, mutta ID:tä ei voitu muuttaa!"
+
+#: views/view-edit.php:55
+msgid "The table was saved successfully, and the table ID was changed."
+msgstr "Tallennus onnistui ja taulukon ID vaihdettiin."
+
+#: views/view-edit.php:54 views/view-list.php:100
+msgid "Error: The table could not be deleted."
+msgstr "Virhe: Taulukkoa ei voitu poistaa."
+
+#: views/view-edit.php:53 views/view-list.php:101
+msgid "Error: The table could not be saved."
+msgstr "Virhe: Tallennus epäonnistui."
+
+#: views/view-edit.php:52
+msgid "The table was imported successfully from WP-Table Reloaded."
+msgstr "Taulukon tuonti onnistui WP-Table Reloaded:sta."
+
+#: views/view-edit.php:51
+msgid "The table was imported successfully."
+msgstr "Taulukon tuonti onnistui."
+
+#: views/view-edit.php:50
+msgid "You are now seeing the copied table, which has the table ID &#8220;%s&#8221;."
+msgstr "Näet nyt taulukon kopion, jonka ID on &#8220;%s&#8221;."
+
+#: views/view-edit.php:50 views/view-list.php:102 views/view-list.php:103
+msgid "The table was copied successfully."
+msgid_plural "The tables were copied successfully."
+msgstr[0] "Taulukko kopioitiin onnistuneesti."
+msgstr[1] "Taulukot kopioitiin onnistuneesti."
+
+#: views/view-edit.php:49
+msgid "The table was added successfully."
+msgstr "Taulukon lisäys onnistui."
+
+#: views/view-edit.php:48
+msgid "The table was saved successfully."
+msgstr "Taulukon tallennus onnistui."
+
+#: views/view-add.php:94
+msgid "The number of columns in your table."
+msgstr "Sarakkeiden lukumäärä taulukossa."
+
+#: views/view-add.php:92
+msgid "Number of Columns"
+msgstr "Sarakkeiden lukumäärä"
+
+#: views/view-add.php:89
+msgid "The number of rows in your table."
+msgstr "Rivien lukumäärä taulukossa."
+
+#: views/view-add.php:88 views/view-add.php:93 views/view-edit.php:411
+#: views/view-edit.php:414
+msgid "This field must contain a positive number."
+msgstr "Numeron täytyy olla positiivinen."
+
+#: views/view-add.php:87
+msgid "Number of Rows"
+msgstr "Rivien lukumäärä"
+
+#: views/view-add.php:84
+msgid "A description of the contents of your table."
+msgstr "Kuvaus taulukon sisällöstä."
+
+#: views/view-add.php:83
+msgid "Enter Description here"
+msgstr "Syötä kuvaus tähän"
+
+#: views/view-add.php:82
+msgid "(optional)"
+msgstr "(valinnainen)"
+
+#: views/view-add.php:82 views/view-edit.php:226
+#: views/view-editor_button_thickbox.php:284 views/view-list.php:322
+msgid "Description"
+msgstr "Kuvaus"
+
+#: views/view-add.php:79
+msgid "The name or title of your table."
+msgstr "Taulukon nimi tai otsikko."
+
+#: views/view-add.php:78
+msgid "Enter Table Name here"
+msgstr "Syötä taulukon nimi tähän"
+
+#: views/view-add.php:77 views/view-edit.php:222
+#: views/view-editor_button_thickbox.php:283 views/view-list.php:321
+msgid "Table Name"
+msgstr "Taulukon nimi"
+
+#: views/view-add.php:60
+msgid "You can always change the name, description, and size of your table later."
+msgstr "Voit aina vaihtaa nimen, kuvauksen ja taulukon koon myöhemmin."
+
+#: views/view-add.php:57
+msgid "To add a new table, enter its name, a description (optional), and the number of rows and columns into the form below."
+msgstr "Lisää uusi taulukko antamalla sen nimi, kuvaus sekä rivien ja sarakkeiden määrä allaolevaan lomakkeeseen."
+
+#: views/view-add.php:42
+msgid "Add Table"
+msgstr "Lisää taulukko"
+
+#: views/view-add.php:37
+msgid "Error: The table could not be added."
+msgstr "Virhe: Taulukkoa ei voitu lisätä."
+
+#: views/view-about.php:212
+msgid "all donors, contributors, supporters, reviewers, and users of the plugin!"
+msgstr "kaikki lahjoittajat, avustajat, tukijat, arvion kirjoittajat ja käyttäjät!"
+
+#: views/view-about.php:209
+msgid "Special Thanks go to:"
+msgstr "Erityiskiitokset:"
+
+#: views/view-about.php:173
+msgid "Please provide this information in bug reports and support requests."
+msgstr "Liitä tämä tieto vikailmoitukseen ja tukipyyntöön."
+
+#: views/view-about.php:156
+msgid "If you do not find an answer there, please <a href=\"%s\">open a new thread</a> in the WordPress Support Forums."
+msgstr "Jos et löydä vastausta sieltä, <a href=\"%s\">aloita uusi keskustelu</a> WordPressin tukifoorumeilla."
+
+#: views/view-about.php:152
+msgid "<a href=\"%s\">Support</a> is provided through the <a href=\"%s\">WordPress Support Forums</a>."
+msgstr "<a href=\"%s\">Tukea</a> on tarjolla <a href=\"%s\">WordPressin tukifoorumeilla</a>."
+
+#: views/view-about.php:136
+msgid "Donations and good ratings encourage me to further develop the plugin and to provide countless hours of support. Any amount is appreciated! Thanks!"
+msgstr "Lahjoitukset ja hyvät arvostelut kannustavat minua kehittämään lisäosaa ja tukemaan käyttäjiä. Jokaista lahjoitusta arvostetaan! Kiitos!"
+
+#: views/view-about.php:134
+msgid "Please rate and review the plugin in the <a href=\"%s\">WordPress Plugin Directory</a>."
+msgstr "Voisitko arvioida lisäosan <a href=\"%s\">WordPressin lisäosahakemistossa</a>, kiitos."
+
+#: views/view-about.php:133
+msgid "If you like the plugin, <a href=\"%s\"><strong>giving a donation</strong></a> is recommended."
+msgstr "Jos pidät lisäosasta, pyydän <a href=\"%s\"><strong>lahjoitusta</strong></a>."
+
+#: views/view-about.php:131
+msgid "It is licensed as Free Software under GNU General Public License 2 (GPL 2)."
+msgstr "Se on lisensoitu ilmaisena ohjelmana GNU General Public License 2 (GPL 2):n mukaan."
+
+#: views/view-about.php:130
+msgid "This plugin was written and developed by <a href=\"%s\">Tobias Bäthge</a>."
+msgstr "Tämän lisäosan suunnitteli ja kirjoitti <a href=\"%s\">Tobias Bäthge</a>."
+
+#: views/view-about.php:97
+msgid "Please see the <a href=\"%s\">documentation</a> for a list of these selectors and for styling examples."
+msgstr "Katso <a href=\"%s\">ohjeista</a> lista valitsimista ja esimerkkejä tyyleistä."
+
+#: views/view-about.php:96
+msgid "For this, each table is given certain CSS classes that can be used as CSS selectors."
+msgstr "Jokaisella taulukolla on tiettyjä CSS-luokkia, joita voi käyttää valitsimina."
+
+#: views/view-about.php:95
+msgid "The plugin ships with default CSS stylesheets, which can be customized with own code or replaced with other stylesheets."
+msgstr "Lisäosan mukana tulee oletustyylitiedosto, jota voi muokata tai jonka voi korvata uudella."
+
+#: views/view-about.php:94
+msgid "Tables can be styled by changing and adding CSS commands."
+msgstr "Taulukoiden tyyliä voi muuttaa CSS-komennoilla."
+
+#: views/view-about.php:91 views/view-list.php:190
+msgid "You can also click the &#8220;%s&#8221; button in the editor toolbar to select and insert a table."
+msgstr "Voit myös lisätä taulun &#8220;%s&#8221;-napista tekstimuokkaimen työkalupalkissa."
+
+#: views/view-about.php:90 views/view-list.php:188
+msgid "To insert a table into a page, post, or text widget, copy its Shortcode %s and paste it at the desired place in the editor."
+msgstr "Lisää taulukko sivulle, artikkeliin tai vimpaimeen kopioimalla lyhytkoodi %s ja liittämällä se haluttuun paikkaan tekstimuokkaimessa."
+
+#: views/view-about.php:87
+msgid "Those will ask you for the necessary information and and corresponding HTML code will be added to the cell automatically."
+msgstr "Sinulta kysytään tarvittavat tiedot ja HTML-koodi lisätään soluun automaattisesti."
+
+#: views/view-about.php:86
+msgid "To easily add a link or an image to a cell, use the provided buttons."
+msgstr "Voit lisätä taulukon soluihin kuvia tai linkkejä helposti nappia painamalla."
+
+#: views/view-about.php:85
+msgid "Then you can edit your data or change the structure of your table (e.g. by inserting, deleting, moving, or swaping rows or columns or sorting them) and select specific table features like alternating row colors or whether to print the name or description, if you want."
+msgstr "Sitten voit muokata tai vaihtaa taulukon rakennetta (esim. lisäämällä, poistamalla, siirtämällä tai vaihtamalla rivejä tai sarakkeita, tai järjestää niitä) ja valita erityisiä taulukko-ominaisuuksia kuten vaihtaa rivien värejä tai näytettävän tiedon."
+
+#: views/view-about.php:82
+msgid "This means that you either let the plugin create an empty table for you or that you load an existing table from either a CSV, HTML, JSON, XLS, or XLSX file."
+msgstr "Voit joko antaa lisäosan luoda sinulle tyhjän taulukon, tai voit ladata olemassaolevan taulukon CSV-, HTML-, JSON-, XLS- tai XLSX-tiedostosta."
+
+#: views/view-about.php:81
+msgid "At first, you should add or import a table."
+msgstr "Aloita tuomalla tai lisäämällä taulukko."
+
+#: views/view-about.php:65
+msgid "If you want to show your tables anywhere else in your theme, you can use a Template Tag function."
+msgstr "Jos haluat näyttää taulukoita muualla teemassasi, voit käyttää sivupohjan funktioita."
+
+#: views/view-about.php:64
+msgid "You can then show the tables in your posts, on your pages, or in text widgets by using a Shortcode."
+msgstr "Voit näyttää taulukot artikkeleissasi, sivuillasi tai tekstivimpaimissa lyhytkoodilla."
+
+#: views/view-about.php:63
+msgid "Tables may contain text, numbers and even HTML (e.g. to include images or links)."
+msgstr "Taulukot voivat sisältää tekstiä, numeroita ja HTML-tageja (esim. kuvia tai linkkejä)"
+
+#: views/view-about.php:62
+msgid "TablePress allows you to create and manage tables in the admin area of WordPress."
+msgstr "TablePressilla voit luoda ja hallita taulukoita WordPressin ylläpidosta."
+
+#: views/view-about.php:48
+msgid "Debug and Version Information"
+msgstr "Debuggaus- ja versiotiedot"
+
+#: views/view-about.php:47
+msgid "Credits and Thanks"
+msgstr "Kiitokset"
+
+#: views/view-about.php:46
+msgid "Author and License"
+msgstr "Lisenssitiedot"
+
+#: views/view-about.php:45
+msgid "Help and Support"
+msgstr "Apu ja tuki"
+
+#: views/view-about.php:44
+msgid "More Information and Documentation"
+msgstr "Lisää tietoja"
+
+#: views/view-about.php:43
+msgid "Usage"
+msgstr "Käyttö"
+
+#: views/view-about.php:42
+msgid "Plugin Purpose"
+msgstr "Lisäosan tarkoitus"
+
+#: models/model-table.php:523
+msgid "Copy of %s"
+msgstr "Kopio taulusta %s"
+
+#: models/model-table.php:521 views/view-editor_button_thickbox.php:346
+#: views/view-export.php:131 views/view-import.php:211 views/view-list.php:421
+msgid "(no name)"
+msgstr "(ei nimeä)"
+
+#: controllers/controller-frontend.php:736 views/view-list.php:504
+msgid "%s ago"
+msgstr "%s sitten"
+
+#: controllers/controller-admin_ajax.php:274 views/view-preview_table.php:65
+msgid "To insert the table into a page, post, or text widget, copy the Shortcode %s and paste it into the editor."
+msgstr "Lisätäksesi taulukon sivulle, artikkeliin tai vimpaimeen, kopioi lyhytkoodi %s ja lisää se tekstimuokkaimeen."
+
+#: controllers/controller-admin_ajax.php:273 views/view-preview_table.php:64
+msgid "The features of the DataTables JavaScript library are also not available or visible in this preview!"
+msgstr "DataTables-kirjaston ominaisuudet eivät toimi tässä esikatselussa!"
+
+#: controllers/controller-admin_ajax.php:272 views/view-preview_table.php:64
+msgid "Because of CSS styling in your theme, the table might look different on your page!"
+msgstr "Teemasi CSS- tyylistä johtuen taulukko saattaa näyttää erilaiselta sivulla"
+
+#: controllers/controller-admin_ajax.php:271 views/view-preview_table.php:64
+msgid "This is a preview of your table."
+msgstr "Tämä on esikatselu."
+
+#: controllers/controller-admin.php:1921 views/view-options.php:184
+#: views/view-options.php:191
+msgid "Uninstall TablePress"
+msgstr "Poista TablePress"
+
+#: controllers/controller-admin.php:1919
+msgid "Go to Dashboard"
+msgstr "Mene Ohjausnäkymään"
+
+#: controllers/controller-admin.php:1917
+msgid "Go to &#8220;Plugins&#8221; page"
+msgstr "Mene &#8220;Lisäosat&#8221;-sivulle"
+
+#: controllers/controller-admin.php:1912
+msgid "You may now also delete your TablePress &#8220;Custom CSS&#8221; files in the <code>wp-content</code> folder."
+msgstr "Voit nyt poistaa omat TablePressin CSS-kooditiedostosi <code>wp-content</code> kansiosta."
+
+#: controllers/controller-admin.php:1910
+msgid "Please also ask him to delete your TablePress &#8220;Custom CSS&#8221; files from the server."
+msgstr "Pyydä häntä myös poistamaan omat TablePressin CSS-tiedostosi palvelimelta."
+
+#: controllers/controller-admin.php:1907
+msgid "Your TablePress &#8220;Custom CSS&#8221; files have been deleted automatically."
+msgstr "Omat TablePressin CSS-tiedostosi on poistettu automaattisesti."
+
+#: controllers/controller-admin.php:1904
+msgid "You may now manually delete the plugin&#8217;s folder <code>tablepress</code> from the <code>plugins</code> directory on your server or use the &#8220;Delete&#8221; link for TablePress on the WordPress &#8220;Plugins&#8221; page."
+msgstr "Voit nyt poistaa lisäosan hakemiston <code>tablepress</code> palvelimelta <code>plugins</code>-hakemistosta tai käyttää &#8220;Poista&#8221;-linkkiä WordPressin &#8220;Lisäosat&#8221;-sivulta."
+
+#: controllers/controller-admin.php:1902
+msgid "You may now ask the network admin to delete the plugin&#8217;s folder <code>tablepress</code> from the server, if no other site in the network uses it."
+msgstr "Voit nyt pyytää verkon ylläpitäjää poistamaan lisäosan hakemiston <code>tablepress</code> palvelimelta, jos kukaan muu ei käytä lisäosaa verkostossasi."
+
+#: controllers/controller-admin.php:1900
+msgid "All tables, data, and options were deleted."
+msgstr "Kaikki taulukot, data ja asetukset poistettiin."
+
+#: controllers/controller-admin.php:1899
+msgid "TablePress was uninstalled successfully."
+msgstr "TablePress poistettiin onnistuneesti."
+
+#: controllers/controller-admin.php:1812
+msgid "The table could not be loaded."
+msgstr "Taulukkoa ei voitu ladata."
+
+#: controllers/controller-admin.php:1802 controllers/controller-admin.php:1812
+#: views/view-edit.php:435 views/view-list.php:445
+#: views/view-preview_table.php:53
+msgid "Preview"
+msgstr "Esikatselu"
+
+#: controllers/controller-admin.php:1802
+#: controllers/controller-admin_ajax.php:278
+msgid "The preview could not be loaded."
+msgstr "Esikatselua ei voitu ladata."
+
+#: controllers/controller-admin.php:1143
+msgid "Imported from Manual Input"
+msgstr "Tuotu manuaalisesta syötteestä"
+
+#: controllers/controller-admin.php:590
+msgid "About TablePress"
+msgstr "Tietoa TablePressistä"
+
+#: controllers/controller-admin.php:589 controllers/controller-admin.php:591
+msgid "About"
+msgstr "Tietoa"
+
+#: controllers/controller-admin.php:582 controllers/controller-admin.php:583
+#: controllers/controller-admin.php:584
+msgid "Plugin Options"
+msgstr "Lisäosan asetukset"
+
+#: controllers/controller-admin.php:577
+msgctxt "navigation bar"
+msgid "Export"
+msgstr "Vie"
+
+#: controllers/controller-admin.php:575 controllers/controller-admin.php:576
+msgid "Export a Table"
+msgstr "Vie taulukko"
+
+#: controllers/controller-admin.php:570
+msgctxt "navigation bar"
+msgid "Import"
+msgstr "Tuo"
+
+#: controllers/controller-admin.php:568 controllers/controller-admin.php:569
+msgid "Import a Table"
+msgstr "Tuo taulukko"
+
+#: controllers/controller-admin.php:561
+msgid "Edit Table"
+msgstr "Muokkaa taulukkoa"
+
+#: controllers/controller-admin.php:556
+msgid "Add New"
+msgstr "Lisää uusi"
+
+#: controllers/controller-admin.php:554 controllers/controller-admin.php:555
+#: views/view-add.php:41
+msgid "Add New Table"
+msgstr "Lisää taulukko"
+
+#: controllers/controller-admin.php:547 controllers/controller-admin.php:548
+#: controllers/controller-admin.php:549
+msgid "All Tables"
+msgstr "Kaikki taulukot"
+
+#: controllers/controller-admin.php:458
+msgctxt "Default CSV delimiter in the translated language (\";\", \",\", or \"tab\")"
+msgid ","
+msgstr ","
+
+#: controllers/controller-admin.php:360 controllers/controller-admin.php:437
+#: controllers/controller-admin.php:711 controllers/controller-admin.php:780
+#: controllers/controller-admin.php:836 controllers/controller-admin.php:908
+#: controllers/controller-admin.php:948 controllers/controller-admin.php:1051
+#: controllers/controller-admin.php:1063 controllers/controller-admin.php:1694
+#: controllers/controller-admin.php:1721 controllers/controller-admin.php:1762
+#: controllers/controller-admin.php:1806 controllers/controller-admin.php:1853
+#: controllers/controller-admin.php:1881
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Sinulla ei ole oikeuksia päästä tälle sivulle."
+
+#: controllers/controller-admin.php:333
+msgid "Donate"
+msgstr "Lahjoita"
+
+#: controllers/controller-admin.php:333
+msgid "Support TablePress with your donation!"
+msgstr "Tue TablePressiä lahjoituksella!"
+
+#: controllers/controller-admin.php:332
+msgid "Support"
+msgstr "Tuki"
+
+#: controllers/controller-admin.php:331
+msgid "Documentation"
+msgstr "Ohjeet"
+
+#: controllers/controller-admin.php:330
+msgid "FAQ"
+msgstr "UKK"
+
+#: controllers/controller-admin.php:330
+msgid "Frequently Asked Questions"
+msgstr "Usein kysytyt kysymykset"
+
+#: controllers/controller-admin.php:315
+msgid "Plugin page"
+msgstr "Lisäosan sivu"
+
+#: controllers/controller-admin.php:288
+msgid "TablePress Table"
+msgstr "TablePress-taulukko"
+
+#: controllers/controller-admin.php:206 controllers/controller-admin.php:207
+msgid "Insert a Table from TablePress"
+msgstr "Lisää taulukko TablePressistä"
+
+#: controllers/controller-admin.php:205 views/view-about.php:91
+#: views/view-list.php:190
+msgid "Table"
+msgstr "Taulukko"
+
+#: classes/class-view.php:410 views/view-edit.php:438 views/view-edit.php:439
+#: views/view-options.php:55
+msgid "Save Changes"
+msgstr "Tallenna muutokset"
+
+#. #-#-#-#-#  tablepress-code.pot (TablePress 1.8.1)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: classes/class-view.php:381
+msgid "TablePress"
+msgstr "TablePress"
+
+#: classes/class-view.php:158 classes/class-view.php:159
+msgid "Do you really want to delete this table?"
+msgid_plural "Do you really want to delete these tables?"
+msgstr[0] "Haluatko todella poistaa taulukon?"
+msgstr[1] "Haluatko todella poistaa taulukot?"
+
+#: classes/class-view.php:147 controllers/controller-admin.php:142
+#: views/view-editor_button_thickbox.php:68
+#: views/view-editor_button_thickbox.php:174
+#: views/view-options_custom_css.php:37 views/view-preview_table.php:53
+msgid "%1$s &lsaquo; %2$s"
+msgstr "%1$s &lsaquo; %2$s"
+
+#: classes/class-view.php:112
+msgid "For more information:"
+msgstr "Lisätietoja:"
+
+#: classes/class-view.php:109
+msgid "If you like the plugin, <a href=\"%1$s\"><strong>a donation</strong></a> is recommended."
+msgstr "Jos pidät lisäosasta, <a href=\"%1$s\"><strong>teethän lahjoituksen</strong></a>."
+
+#: classes/class-view.php:108 views/view-about.php:153
+msgid "Before asking for support, please carefully read the <a href=\"%s\">Frequently Asked Questions</a>, where you will find answers to the most common questions, and search through the forums."
+msgstr "Lue <a href=\"%s\">usein kysytyt kysymykset</a> huolellisesti ennen tukipyyntöjä. Niistä löytyy vastaus useimpiin kysymyksiin. Hae myös tukifoorumilta."
+
+#: classes/class-view.php:107
+msgid "<a href=\"%1$s\">Support</a> is provided through the <a href=\"%2$s\">WordPress Support Forums</a>."
+msgstr "<a href=\"%1$s\">Tukea</a> on saatavilla <a href=\"%2$s\">WordPressin tukifoorumeilla</a>."
+
+#: classes/class-view.php:106 views/view-about.php:114
+msgid "For technical information, please see the <a href=\"%s\">documentation</a>."
+msgstr "Lisätietoja pluginin toiminnasta löytyy <a href=\"%s\">ohjeista</a>."
+
+#: classes/class-view.php:105 views/view-about.php:113
+msgid "More information about TablePress can be found on the <a href=\"%1$s\">plugin&#8217;s website</a> or on its page in the <a href=\"%2$s\">WordPress Plugin Directory</a>."
+msgstr "Lisätietoja TablePressistä löydät <a href=\"%1$s\">lisäosan nettisivulta</a> tai sen sivulta <a href=\"%2$s\">WordPressin lisäosahakemistossa</a>."
+
+#: classes/class-view.php:103
+msgid "TablePress Help"
+msgstr "TablePressin tuki"
+
+#: classes/class-render.php:410 views/view-list.php:432
+msgid "Edit"
+msgstr "Muokkaa"
+
+#: classes/class-render.php:272
+msgid "<!-- The table with the ID %s is empty! -->"
+msgstr "<!-- Taulukko, jonka ID on %s on tyhjä! -->"
+
+#: classes/class-import.php:187 classes/class-import.php:280
+#: classes/class-import.php:378
+msgid "The imported file contains errors:"
+msgstr "Tuotu tiedosto sisältää virheitä:"
+
+#: classes/class-import.php:86
+msgid "XLSX - Microsoft Excel 2007-2013 (experimental)"
+msgstr "XLSX - Microsoft Excel 2007-2013 (kokeellinen)"
+
+#: classes/class-import.php:85
+msgid "XLS - Microsoft Excel 97-2003 (experimental)"
+msgstr "XLS - Microsoft Excel 97-2003 (kokeellinen)"
+
+#: classes/class-export.php:62
+msgid "\\t (tabulator)"
+msgstr "\\t (tabulaattori)"
+
+#: classes/class-export.php:61
+msgid ", (comma)"
+msgstr ", (pilkku)"
+
+#: classes/class-export.php:60
+msgid "; (semicolon)"
+msgstr "; (puolipiste)"
+
+#: classes/class-export.php:57 classes/class-import.php:84
+msgid "JSON - JavaScript Object Notation"
+msgstr "JSON - JavaScript Object Notation"
+
+#: classes/class-export.php:56 classes/class-import.php:82
+msgid "HTML - Hypertext Markup Language"
+msgstr "HTML - Hypertext Markup Language"
+
+#: classes/class-export.php:55 classes/class-import.php:80
+msgid "CSV - Character-Separated Values"
+msgstr "CSV - Character-Separated Values"
+
+#: classes/class-admin-page-helper.php:80
+msgid "Support the plugin with your <a href=\"%s\">donation</a>!"
+msgstr "Tue lisäosaa <a href=\"%s\">lahjoittamalla</a>!"

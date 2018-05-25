@@ -1,0 +1,1564 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Usernoise Pro v5.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2016-11-14 07:41:13+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-Language: \n"
+"X-Poedit-Country: \n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: dist/releases/usernoise/usernoise/admin/admin-bar.php:17
+#: dist/usernoise/admin/admin-bar.php:17
+#, php-format
+#@ default
+msgid "Usernoise %s"
+msgstr "Usernoise %s"
+
+#: dist/releases/usernoise/usernoise/admin/admin-bar.php:23
+#: dist/releases/usernoise/usernoise/inc/template.php:145
+#: dist/releases/usernoise/usernoise/inc/template.php:311
+#: dist/releases/usernoise/usernoise/inc/template.php:347
+#: dist/usernoise/admin/admin-bar.php:23
+#: dist/usernoise/inc/template.php:145
+#: dist/usernoise/inc/template.php:311
+#: dist/usernoise/inc/template.php:350
+#: inc/template.php:145
+#: inc/template.php:329
+#: inc/template.php:373
+#@ usernoise
+msgid "Feedback"
+msgstr "Geri Bildirim"
+
+#: admin/menu.php:15
+#: dist/releases/usernoise/usernoise/admin/admin-bar.php:30
+#: dist/releases/usernoise/usernoise/admin/menu.php:15
+#: dist/releases/usernoise/usernoise/vendor/plugin-options-framework/plugin-options-framework.php:110
+#: dist/usernoise/admin/admin-bar.php:30
+#: dist/usernoise/admin/menu.php:15
+#: dist/usernoise/vendor/plugin-options-framework/plugin-options-framework.php:110
+#: vendor/plugin-options-framework/plugin-options-framework.php:110
+#@ usernoise
+#@ default
+msgid "Settings"
+msgstr "Ayarlar"
+
+#: admin/dashboard.php:16
+#: dist/releases/usernoise/usernoise/admin/dashboard.php:16
+#: dist/releases/usernoise/usernoise/inc/model.php:43
+#: dist/usernoise/admin/dashboard.php:16
+#: dist/usernoise/inc/model.php:43
+#: inc/model.php:43
+#@ usernoise
+msgid "New feedback"
+msgstr "Yeni geribildirim"
+
+#: admin/dashboard.php:33
+#: dist/releases/usernoise/usernoise/admin/dashboard.php:33
+#: dist/usernoise/admin/dashboard.php:33
+#@ default
+msgid "by"
+msgstr "tarafından"
+
+#: admin/dashboard.php:43
+#: dist/releases/usernoise/usernoise/admin/dashboard.php:43
+#: dist/usernoise/admin/dashboard.php:43
+#@ usernoise
+msgid "View all feedback"
+msgstr "Tüm geri bildirimleri göster"
+
+#: admin/dashboard.php:46
+#: dist/releases/usernoise/usernoise/admin/dashboard.php:46
+#: dist/usernoise/admin/dashboard.php:46
+#@ usernoise
+msgid "No new feedback now."
+msgstr "Yeni geribildirim yok"
+
+#: admin/editor-page.php:40
+#: dist/releases/usernoise/usernoise/admin/editor-page.php:40
+#: dist/releases/usernoise/usernoise/html/publish-meta-box.php:61
+#: dist/usernoise/admin/editor-page.php:40
+#: dist/usernoise/html/publish-meta-box.php:61
+#: html/publish-meta-box.php:61
+#@ default
+msgid "Publish"
+msgstr "Yayınlamak"
+
+#: admin/editor-page.php:96
+#: dist/releases/usernoise/usernoise/admin/editor-page.php:96
+#: dist/usernoise/admin/editor-page.php:96
+#@ usernoise
+msgid "Feedback was marked as reviewed"
+msgstr "Geribildirim  incelendi olarak işaretlendi"
+
+#: admin/editor-page.php:55
+#: dist/releases/usernoise/usernoise/admin/editor-page.php:55
+#: dist/usernoise/admin/editor-page.php:55
+#@ default
+msgid "Author"
+msgstr "Yazar"
+
+#: admin/feedback-list.php:53
+#: dist/releases/usernoise/usernoise/admin/feedback-list.php:53
+#: dist/releases/usernoise/usernoise/inc/model.php:143
+#: dist/usernoise/admin/feedback-list.php:53
+#: dist/usernoise/inc/model.php:143
+#: inc/model.php:143
+#@ usernoise
+#@ usernoise-pro
+msgid "Type"
+msgstr "Tip"
+
+#: admin/feedback-list.php:80
+#: admin/feedback-types.php:39
+#: dist/releases/usernoise/usernoise/admin/feedback-list.php:80
+#: dist/releases/usernoise/usernoise/admin/feedback-types.php:39
+#: dist/usernoise/admin/feedback-list.php:80
+#: dist/usernoise/admin/feedback-types.php:39
+#@ usernoise
+#@ usernoise-pro
+msgid "All feedback types"
+msgstr "Tüm geribildirim tipleri"
+
+#: admin/menu.php:13
+#: dist/releases/usernoise/usernoise/admin/menu.php:13
+#: dist/releases/usernoise/usernoise/inc/model.php:48
+#: dist/usernoise/admin/menu.php:13
+#: dist/usernoise/inc/model.php:48
+#: inc/model.php:48
+#@ usernoise
+msgid "Usernoise"
+msgstr "Usernoise"
+
+#: admin/settings.php:47
+#: dist/releases/usernoise/usernoise/admin/settings.php:47
+#: dist/usernoise/admin/settings.php:47
+#@ usernoise
+msgid "Usernoise settings"
+msgstr "Usernoise ayarları"
+
+#: admin/settings.php:101
+#: dist/releases/usernoise/usernoise/admin/settings.php:101
+#: dist/usernoise/admin/settings.php:101
+#@ usernoise
+msgid "Left"
+msgstr "Sol"
+
+#: admin/settings.php:102
+#: dist/releases/usernoise/usernoise/admin/settings.php:102
+#: dist/usernoise/admin/settings.php:102
+#@ usernoise
+msgid "Right"
+msgstr "Sağ"
+
+#: admin/settings.php:104
+#: dist/releases/usernoise/usernoise/admin/settings.php:104
+#: dist/usernoise/admin/settings.php:104
+#@ usernoise
+msgid "Top"
+msgstr "Üst"
+
+#: admin/settings.php:103
+#: dist/releases/usernoise/usernoise/admin/settings.php:103
+#: dist/usernoise/admin/settings.php:103
+#@ usernoise
+msgid "Bottom"
+msgstr "Alt"
+
+#: admin/settings.php:17
+#: dist/releases/usernoise/usernoise/admin/settings.php:17
+#: dist/usernoise/admin/settings.php:17
+#@ usernoise
+msgid "General"
+msgstr "Genel"
+
+#: admin/settings.php:110
+#: admin/settings.php:111
+#: dist/releases/usernoise/usernoise/admin/settings.php:110
+#: dist/releases/usernoise/usernoise/admin/settings.php:111
+#: dist/usernoise/admin/settings.php:110
+#: dist/usernoise/admin/settings.php:111
+#@ usernoise
+msgid "Disable on mobile devices"
+msgstr "Mobil cihazlarda devre dışı bırak"
+
+#: admin/feedback-types.php:63
+#: admin/feedback-types.php:85
+#: admin/settings.php:123
+#: dist/releases/usernoise/usernoise/admin/feedback-types.php:63
+#: dist/releases/usernoise/usernoise/admin/feedback-types.php:85
+#: dist/releases/usernoise/usernoise/admin/settings.php:123
+#: dist/usernoise/admin/feedback-types.php:63
+#: dist/usernoise/admin/feedback-types.php:85
+#: dist/usernoise/admin/settings.php:123
+#@ usernoise-pro
+#@ usernoise
+msgid "Position"
+msgstr "Konum"
+
+#: admin/settings.php:126
+#: dist/releases/usernoise/usernoise/admin/settings.php:126
+#: dist/usernoise/admin/settings.php:126
+#@ usernoise
+msgid "Text"
+msgstr "Metin"
+
+#: admin/settings.php:127
+#: dist/releases/usernoise/usernoise/admin/settings.php:127
+#: dist/usernoise/admin/settings.php:127
+#@ usernoise
+msgctxt "button"
+msgid "Feedback"
+msgstr "Geri Bildirim"
+
+#: admin/settings.php:134
+#: dist/releases/usernoise/usernoise/admin/settings.php:134
+#: dist/usernoise/admin/settings.php:134
+#@ usernoise
+msgid "Text color"
+msgstr "Metin rengi"
+
+#: admin/settings.php:137
+#: dist/releases/usernoise/usernoise/admin/settings.php:137
+#: dist/usernoise/admin/settings.php:137
+#@ usernoise
+msgid "Background color"
+msgstr "Arka plan rengi"
+
+#: admin/settings.php:22
+#: dist/releases/usernoise/usernoise/admin/settings.php:22
+#: dist/usernoise/admin/settings.php:22
+#@ usernoise
+msgid "Form"
+msgstr "Form"
+
+#: dist/releases/usernoise/usernoise/inc/template.php:154
+#: dist/usernoise/inc/template.php:154
+#: inc/template.php:154
+#@ usernoise
+msgid "Please tell us what do you think, any kind of feedback is highly appreciated."
+msgstr "Lütfen ne düşündüğünü söyle, her türlü geribildirim için müteşekkiriz."
+
+#: admin/settings.php:163
+#: admin/settings.php:164
+#: dist/releases/usernoise/usernoise/admin/settings.php:163
+#: dist/releases/usernoise/usernoise/admin/settings.php:164
+#: dist/usernoise/admin/settings.php:163
+#: dist/usernoise/admin/settings.php:164
+#@ usernoise
+msgid "Ask for feedback type"
+msgstr "Geribildirim tipi iste"
+
+#: admin/settings.php:167
+#: admin/settings.php:168
+#: dist/releases/usernoise/usernoise/admin/settings.php:167
+#: dist/releases/usernoise/usernoise/admin/settings.php:168
+#: dist/usernoise/admin/settings.php:167
+#: dist/usernoise/admin/settings.php:168
+#@ usernoise
+msgid "Ask for a summary"
+msgstr "Özet iste"
+
+#: admin/settings.php:171
+#: admin/settings.php:172
+#: dist/releases/usernoise/usernoise/admin/settings.php:171
+#: dist/releases/usernoise/usernoise/admin/settings.php:172
+#: dist/usernoise/admin/settings.php:171
+#: dist/usernoise/admin/settings.php:172
+#@ usernoise
+msgid "Ask for an email"
+msgstr "E-posta iste"
+
+#: dist/releases/usernoise/usernoise/inc/template.php:149
+#: dist/usernoise/inc/template.php:149
+#: inc/template.php:149
+#@ usernoise
+msgid "Submit feedback"
+msgstr "Geri bildirim gönder"
+
+#: admin/settings.php:27
+#: dist/releases/usernoise/usernoise/admin/settings.php:27
+#: dist/usernoise/admin/settings.php:27
+#@ usernoise
+msgid "Notifications"
+msgstr "Bildirimler"
+
+#: admin/settings.php:184
+#: dist/releases/usernoise/usernoise/admin/settings.php:184
+#: dist/usernoise/admin/settings.php:184
+#@ usernoise
+msgid "New feedback received admin notification"
+msgstr "Yeni geribildirim alındığında yönetici bildirimi"
+
+#: admin/settings.php:185
+#: dist/releases/usernoise/usernoise/admin/settings.php:185
+#: dist/usernoise/admin/settings.php:185
+#@ usernoise
+msgid "Enable"
+msgstr "Etkinleştir"
+
+#: admin/settings.php:188
+#: dist/releases/usernoise/usernoise/admin/settings.php:188
+#: dist/usernoise/admin/settings.php:188
+#, php-format
+#@ usernoise
+msgid "Notification emails will be sent to: <a href=\"mailto:%s\">%s</a>"
+msgstr "<a Href=\"mailto:%s\">% s </ a>: Bildirim e-posta gönderilecektir"
+
+#: admin/settings.php:191
+#: dist/releases/usernoise/usernoise/admin/settings.php:191
+#: dist/usernoise/admin/settings.php:191
+#, php-format
+#@ usernoise
+msgid "(you can change it at <a href=\"%s\">%s</a> page)."
+msgstr "(</ A> sayfasına <a href=\"%s\">% s değiştirebilirsiniz)."
+
+#: admin/settings.php:192
+#: dist/releases/usernoise/usernoise/admin/settings.php:192
+#: dist/usernoise/admin/settings.php:192
+#@ default
+msgid "General Options"
+msgstr "Genel Seçenekler"
+
+#: admin/settings.php:240
+#: dist/releases/usernoise/usernoise/admin/settings.php:240
+#: dist/usernoise/admin/settings.php:240
+#@ usernoise
+msgid "Notifications do not work right?"
+msgstr "Bildirimler doğru çalışmadı mı?"
+
+#: dist/releases/usernoise/usernoise/html/publish-meta-box.php:9
+#: dist/releases/usernoise/usernoise/html/publish-meta-box.php:42
+#: dist/releases/usernoise/usernoise/inc/widgets.php:101
+#: dist/usernoise/html/publish-meta-box.php:9
+#: dist/usernoise/html/publish-meta-box.php:42
+#: dist/usernoise/inc/widgets.php:101
+#: html/publish-meta-box.php:9
+#: html/publish-meta-box.php:42
+#: inc/widgets.php:101
+#@ default
+#@ usernoise-pro
+msgid "Status:"
+msgstr "Durum:"
+
+#: dist/releases/usernoise/usernoise/html/publish-meta-box.php:27
+#: dist/usernoise/html/publish-meta-box.php:27
+#: html/publish-meta-box.php:27
+#@ default
+msgid "M j, Y @ G:i"
+msgstr "M j, Y @ G: i"
+
+#: dist/releases/usernoise/usernoise/html/publish-meta-box.php:28
+#: dist/usernoise/html/publish-meta-box.php:28
+#: html/publish-meta-box.php:28
+#, php-format
+#@ default
+msgid "Sent on: <b>%1$s</b>"
+msgstr "Gönderdi: <b>%1$s</b>"
+
+#: dist/releases/usernoise/usernoise/html/publish-meta-box.php:51
+#: dist/usernoise/html/publish-meta-box.php:51
+#: html/publish-meta-box.php:51
+#@ default
+msgid "Delete Permanently"
+msgstr "Kalıcı sil"
+
+#: dist/releases/usernoise/usernoise/html/publish-meta-box.php:53
+#: dist/usernoise/html/publish-meta-box.php:53
+#: html/publish-meta-box.php:53
+#@ default
+msgid "Move to Trash"
+msgstr "Çöp Kutusuna Taşı"
+
+#: dist/releases/usernoise/usernoise/html/publish-meta-box.php:64
+#: dist/releases/usernoise/usernoise/html/publish-meta-box.php:65
+#: dist/usernoise/html/publish-meta-box.php:64
+#: dist/usernoise/html/publish-meta-box.php:65
+#: html/publish-meta-box.php:64
+#: html/publish-meta-box.php:65
+#@ default
+msgid "Update"
+msgstr "Güncelleştirmek"
+
+#: dist/releases/usernoise/usernoise/inc/template.php:359
+#: dist/usernoise/inc/template.php:362
+#: inc/template.php:390
+#@ usernoise
+msgid "Close"
+msgstr "Kapat"
+
+#: dist/releases/usernoise/usernoise/inc/db-upgrade.php:28
+#: dist/usernoise/inc/db-upgrade.php:28
+#: inc/db-upgrade.php:28
+#@ usernoise
+msgid "Idea"
+msgstr "Fikir"
+
+#: dist/releases/usernoise/usernoise/inc/db-upgrade.php:28
+#: dist/usernoise/inc/db-upgrade.php:28
+#: inc/db-upgrade.php:28
+#@ usernoise
+msgid "Problem"
+msgstr "Sorun"
+
+#: dist/releases/usernoise/usernoise/inc/db-upgrade.php:28
+#: dist/usernoise/inc/db-upgrade.php:28
+#: inc/db-upgrade.php:28
+#@ usernoise
+msgid "Question"
+msgstr "Soru"
+
+#: dist/releases/usernoise/usernoise/inc/db-upgrade.php:29
+#: dist/usernoise/inc/db-upgrade.php:29
+#: inc/db-upgrade.php:29
+#@ usernoise
+msgid "Praise"
+msgstr "Övgü"
+
+#: dist/releases/usernoise/usernoise/inc/template.php:285
+#: dist/usernoise/inc/template.php:285
+#: inc/template.php:285
+#@ usernoise
+msgid "Short summary"
+msgstr "Özetle söylemek istedikleriniz"
+
+#: dist/releases/usernoise/usernoise/inc/model.php:36
+#: dist/releases/usernoise/usernoise/inc/model.php:38
+#: dist/releases/usernoise/usernoise/inc/model.php:39
+#: dist/usernoise/inc/model.php:36
+#: dist/usernoise/inc/model.php:38
+#: dist/usernoise/inc/model.php:39
+#: inc/model.php:36
+#: inc/model.php:38
+#: inc/model.php:39
+#@ usernoise
+msgctxt "admin"
+msgid "Feedback"
+msgstr "Geri Bildirim"
+
+#: dist/releases/usernoise/usernoise/inc/model.php:40
+#: dist/usernoise/inc/model.php:40
+#: inc/model.php:40
+#@ usernoise
+msgid "Add new"
+msgstr "Yeni Ekle"
+
+#: dist/releases/usernoise/usernoise/inc/model.php:41
+#: dist/usernoise/inc/model.php:41
+#: inc/model.php:41
+#@ usernoise
+msgid "Add new feedback"
+msgstr "Yeni geribildirim ekle"
+
+#: dist/releases/usernoise/usernoise/inc/model.php:42
+#: dist/releases/usernoise/usernoise/inc/model.php:44
+#: dist/usernoise/inc/model.php:42
+#: dist/usernoise/inc/model.php:44
+#: inc/model.php:42
+#: inc/model.php:44
+#@ usernoise
+msgid "View feedback"
+msgstr "Geribildirim görüntüle"
+
+#: dist/releases/usernoise/usernoise/inc/model.php:45
+#: dist/usernoise/inc/model.php:45
+#: inc/model.php:45
+#@ usernoise
+msgid "Search feedback"
+msgstr "Geribildirim ara"
+
+#: dist/releases/usernoise/usernoise/inc/model.php:46
+#: dist/usernoise/inc/model.php:46
+#: inc/model.php:46
+#@ usernoise
+msgid "Feedback not found"
+msgstr "Geribildirim bulunamadı"
+
+#: dist/releases/usernoise/usernoise/inc/model.php:47
+#: dist/usernoise/inc/model.php:47
+#: inc/model.php:47
+#@ usernoise
+msgid "Feedback not found in Trash"
+msgstr "Geribildirim çöpte bulunamadı"
+
+#: dist/releases/usernoise/usernoise/inc/model.php:50
+#: dist/usernoise/inc/model.php:50
+#: inc/model.php:50
+#@ usernoise
+msgid "Feedback left by users using a form in a lightbox"
+msgstr "Lightox üzerinde bir form kullanarak kullanıcılar tarafından bırakılan geribildirim"
+
+#: dist/releases/usernoise/usernoise/inc/model.php:127
+#: dist/usernoise/inc/model.php:127
+#: inc/model.php:127
+#@ default
+msgid "feedback"
+msgstr "Geri Bildirim"
+
+#: dist/releases/usernoise/usernoise/inc/model.php:151
+#: dist/usernoise/inc/model.php:151
+#: inc/model.php:151
+#, php-format
+#@ default
+msgid "New %s submitted at %s"
+msgstr "Yeni% s% s sunulan"
+
+#: dist/releases/usernoise/usernoise/inc/template.php:87
+#: dist/usernoise/inc/template.php:87
+#: inc/template.php:87
+#@ usernoise
+msgid "or"
+msgstr "veya"
+
+#: dist/releases/usernoise/usernoise/vendor/plugin-options-framework/plugin-options-framework.php:157
+#: dist/usernoise/vendor/plugin-options-framework/plugin-options-framework.php:157
+#: vendor/plugin-options-framework/plugin-options-framework.php:157
+#@ default
+msgid "Please provide some settings fields when creating an options framework instance"
+msgstr "Bir seçenekler çerçeve örneğini oluştururken bazı ayarları alanları verin"
+
+#: dist/releases/usernoise/usernoise/vendor/plugin-options-framework/plugin-options-framework.php:176
+#: dist/usernoise/vendor/plugin-options-framework/plugin-options-framework.php:176
+#: vendor/plugin-options-framework/plugin-options-framework.php:176
+#@ default
+msgid "This page requires JavaScript to be enabled in your browser. Please enable JavaScript."
+msgstr "Bu sayfayı tarayıcınızda JavaScript'in etkin olmasını gerektirir. Lütfen JavaScript'i etkinleştirin."
+
+#: dist/releases/usernoise/usernoise/vendor/plugin-options-framework/plugin-options-framework.php:222
+#: dist/usernoise/vendor/plugin-options-framework/plugin-options-framework.php:222
+#: vendor/plugin-options-framework/plugin-options-framework.php:222
+#@ usernoise
+msgid "Save Options"
+msgstr "Seçenekleri Kaydet"
+
+#: dist/releases/usernoise/usernoise/vendor/plugin-options-framework/plugin-options-framework.php:223
+#: dist/usernoise/vendor/plugin-options-framework/plugin-options-framework.php:223
+#: vendor/plugin-options-framework/plugin-options-framework.php:223
+#@ usernoise
+msgid "Restore Defaults"
+msgstr "Varsayılanları geri yükle"
+
+#: dist/releases/usernoise/usernoise/vendor/plugin-options-framework/plugin-options-framework.php:223
+#: dist/usernoise/vendor/plugin-options-framework/plugin-options-framework.php:223
+#: vendor/plugin-options-framework/plugin-options-framework.php:223
+#@ default
+msgid "Click OK to reset. All the settings will be reset to defaults!"
+msgstr "Sıfırlamak için Tamam'ı tıklatın. Tüm ayarları varsayılan sıfırlamak olacak!"
+
+#: dist/releases/usernoise/usernoise/vendor/plugin-options-framework/plugin-options-framework.php:306
+#: dist/usernoise/vendor/plugin-options-framework/plugin-options-framework.php:306
+#: vendor/plugin-options-framework/plugin-options-framework.php:306
+#@ usernoise
+msgid "Select a Color"
+msgstr "Bir Renk Seçin"
+
+#: dist/releases/usernoise/usernoise/vendor/plugin-options-framework/plugin-options-framework.php:352
+#: dist/usernoise/vendor/plugin-options-framework/plugin-options-framework.php:352
+#: vendor/plugin-options-framework/plugin-options-framework.php:352
+#@ default
+msgid "Upgrade to WordPress 3.3 or later to enable WYSIWYG editor"
+msgstr "WordPress 3.3 yükseltme veya daha WYSIWYG editörü etkinleştirmek için"
+
+#: admin/settings.php:107
+#: admin/settings.php:108
+#: dist/releases/usernoise/usernoise/admin/settings.php:107
+#: dist/releases/usernoise/usernoise/admin/settings.php:108
+#: dist/usernoise/admin/settings.php:107
+#: dist/usernoise/admin/settings.php:108
+#@ usernoise
+msgid "Publish feedback directly without approval"
+msgstr "Geribildirimleri onay olmaksızın yayınla"
+
+#: admin/settings.php:128
+#: dist/releases/usernoise/usernoise/admin/settings.php:128
+#: dist/usernoise/admin/settings.php:128
+#@ usernoise
+msgid "Button Icon"
+msgstr "Düğme ikonu"
+
+#: admin/settings.php:129
+#: dist/releases/usernoise/usernoise/admin/settings.php:129
+#: dist/usernoise/admin/settings.php:129
+#@ usernoise
+msgid "No icon"
+msgstr "İkon yok"
+
+#: admin/settings.php:130
+#: dist/releases/usernoise/usernoise/admin/settings.php:130
+#: dist/usernoise/admin/settings.php:130
+#@ usernoise
+msgid "Icon used on the button. <strong>May conflict with Twitter Bootstrap-based themes</strong>"
+msgstr "Düğmede kullanılan ikon. <strong>Twitter Bootstrap-tabanlı temalarla çakışabilir.</strong>"
+
+#: admin/settings.php:175
+#: admin/settings.php:176
+#: dist/releases/usernoise/usernoise/admin/settings.php:175
+#: dist/releases/usernoise/usernoise/admin/settings.php:176
+#: dist/usernoise/admin/settings.php:175
+#: dist/usernoise/admin/settings.php:176
+#@ usernoise
+msgid "Ask for name"
+msgstr "İsim sor"
+
+#: dist/releases/usernoise/usernoise/inc/template.php:276
+#: dist/releases/usernoise/usernoise/inc/template.php:370
+#: dist/usernoise/inc/template.php:276
+#: dist/usernoise/inc/template.php:373
+#: inc/template.php:276
+#: inc/template.php:405
+#@ usernoise
+msgid "Your name"
+msgstr "İsminiz"
+
+#: admin/settings.php:241
+#: dist/releases/usernoise/usernoise/admin/settings.php:241
+#: dist/usernoise/admin/settings.php:241
+#@ usernoise
+msgid "Check out <a href='http://codecanyon.net/item/all-in-one-email-for-wordpress/1290390'>All in One Email plugin</a>. It adds email options missing in WordPress natively."
+msgstr "Kontrol Ediniz <a href='http://codecanyon.net/item/all-in-one-email-for-wordpress/1290390'>All in One Email Eklentisi</a>. Wordpress İçin Bir Çok İletişim Yöntemi Ekler"
+
+#: dist/releases/usernoise/usernoise/html/publish-meta-box.php:14
+#: dist/usernoise/html/publish-meta-box.php:14
+#: html/publish-meta-box.php:14
+#@ default
+msgid "Published"
+msgstr "Yayınlanan"
+
+#: dist/releases/usernoise/usernoise/html/publish-meta-box.php:17
+#: dist/usernoise/html/publish-meta-box.php:17
+#: html/publish-meta-box.php:17
+#@ default
+msgid "Hidden"
+msgstr "Gizli"
+
+#: dist/releases/usernoise/usernoise/html/publish-meta-box.php:62
+#: dist/usernoise/html/publish-meta-box.php:62
+#: html/publish-meta-box.php:62
+#@ usernoise
+msgid "PublishSave"
+msgstr "Kaydet ve Yayınla"
+
+#: dist/releases/usernoise/usernoise/inc/db-upgrade.php:9
+#: dist/usernoise/inc/db-upgrade.php:9
+#: inc/db-upgrade.php:9
+#@ usernoise
+msgid "Ideas"
+msgstr "Fikirler"
+
+#: dist/releases/usernoise/usernoise/inc/db-upgrade.php:9
+#: dist/usernoise/inc/db-upgrade.php:9
+#: inc/db-upgrade.php:9
+#@ usernoise
+msgid "Questions"
+msgstr "Sorular"
+
+#: dist/releases/usernoise/usernoise/inc/db-upgrade.php:9
+#: dist/usernoise/inc/db-upgrade.php:9
+#: inc/db-upgrade.php:9
+#@ usernoise
+msgid "Problems"
+msgstr "Problemler"
+
+#: dist/releases/usernoise/usernoise/inc/db-upgrade.php:9
+#: dist/usernoise/inc/db-upgrade.php:9
+#: inc/db-upgrade.php:9
+#@ usernoise
+msgid "Praises"
+msgstr "Övgüler"
+
+#: dist/releases/usernoise/usernoise/inc/model.php:128
+#: dist/usernoise/inc/model.php:128
+#: inc/model.php:128
+#, php-format
+#@ usernoise
+msgid "A new %s has been submitted. View it: %s."
+msgstr "Yeni bir %s girildi. Burada görün : %s."
+
+#: admin/editor-page.php:44
+#: dist/releases/usernoise/usernoise/admin/editor-page.php:44
+#: dist/usernoise/admin/editor-page.php:44
+#@ usernoise
+msgid "Screenshot"
+msgstr "Ekran Görüntüsü Al"
+
+#: admin/editor-page.php:46
+#: dist/releases/usernoise/usernoise/admin/editor-page.php:46
+#: dist/releases/usernoise/usernoise/inc/template.php:354
+#: dist/usernoise/admin/editor-page.php:46
+#: dist/usernoise/inc/template.php:357
+#: inc/template.php:385
+#@ usernoise
+msgid "Details"
+msgstr "Detay"
+
+#: admin/editor-page.php:60
+#: dist/releases/usernoise/usernoise/admin/editor-page.php:60
+#: dist/usernoise/admin/editor-page.php:60
+#@ usernoise
+msgid "Page"
+msgstr "Sayfa"
+
+#: admin/feedback-types.php:37
+#: dist/releases/usernoise/usernoise/admin/feedback-types.php:37
+#: dist/releases/usernoise/usernoise/inc/model.php:33
+#: dist/usernoise/admin/feedback-types.php:37
+#: dist/usernoise/inc/model.php:33
+#: inc/model.php:33
+#@ usernoise-pro
+#@ usernoise
+msgid "Feedback types"
+msgstr "Geribildirim Çeşitleri"
+
+#: admin/feedback-types.php:38
+#: dist/releases/usernoise/usernoise/admin/feedback-types.php:38
+#: dist/releases/usernoise/usernoise/inc/template.php:292
+#: dist/usernoise/admin/feedback-types.php:38
+#: dist/usernoise/inc/template.php:292
+#: inc/template.php:292
+#@ usernoise-pro
+#@ usernoise
+msgid "Feedback type"
+msgstr "Geribildirim Çeşidi"
+
+#: admin/feedback-types.php:40
+#: dist/releases/usernoise/usernoise/admin/feedback-types.php:40
+#: dist/usernoise/admin/feedback-types.php:40
+#@ usernoise-pro
+msgid "Edit feedback type"
+msgstr "Geribildirim Çeşidini Düzenle"
+
+#: admin/feedback-types.php:41
+#: dist/releases/usernoise/usernoise/admin/feedback-types.php:41
+#: dist/usernoise/admin/feedback-types.php:41
+#@ usernoise-pro
+msgid "View feedback type"
+msgstr "Geribildirim Çeşidini Gör"
+
+#: admin/feedback-types.php:42
+#: dist/releases/usernoise/usernoise/admin/feedback-types.php:42
+#: dist/usernoise/admin/feedback-types.php:42
+#@ usernoise-pro
+msgid "Update feedback type"
+msgstr "Geribildirim Çeşidini Güncelle"
+
+#: admin/feedback-types.php:43
+#: dist/releases/usernoise/usernoise/admin/feedback-types.php:43
+#: dist/usernoise/admin/feedback-types.php:43
+#@ usernoise-pro
+msgid "Add new feedback type"
+msgstr "Yeni Geribildirim Çeşidi Ekle"
+
+#: admin/feedback-types.php:44
+#: dist/releases/usernoise/usernoise/admin/feedback-types.php:44
+#: dist/usernoise/admin/feedback-types.php:44
+#@ usernoise-pro
+msgid "New feedback type name"
+msgstr "Geri Bildirim Çeşidi İsmi"
+
+#: admin/feedback-types.php:50
+#: dist/releases/usernoise/usernoise/admin/feedback-types.php:50
+#: dist/usernoise/admin/feedback-types.php:50
+#@ usernoise-pro
+msgid "Feedback Types"
+msgstr "Geribildirim Çeşitleri"
+
+#: admin/feedback-types.php:58
+#: admin/feedback-types.php:80
+#: dist/releases/usernoise/usernoise/admin/feedback-types.php:58
+#: dist/releases/usernoise/usernoise/admin/feedback-types.php:80
+#: dist/usernoise/admin/feedback-types.php:58
+#: dist/usernoise/admin/feedback-types.php:80
+#@ usernoise-pro
+msgid "Icon"
+msgstr "İkon"
+
+#: admin/feedback-types.php:60
+#: admin/feedback-types.php:82
+#: dist/releases/usernoise/usernoise/admin/feedback-types.php:60
+#: dist/releases/usernoise/usernoise/admin/feedback-types.php:82
+#: dist/usernoise/admin/feedback-types.php:60
+#: dist/usernoise/admin/feedback-types.php:82
+#@ usernoise-pro
+msgid "Icon used for this feedback type"
+msgstr "İkon Kullan"
+
+#: admin/feedback-types.php:65
+#: admin/feedback-types.php:87
+#: dist/releases/usernoise/usernoise/admin/feedback-types.php:65
+#: dist/releases/usernoise/usernoise/admin/feedback-types.php:87
+#: dist/usernoise/admin/feedback-types.php:65
+#: dist/usernoise/admin/feedback-types.php:87
+#@ usernoise-pro
+msgid "Type position among other feedback types"
+msgstr "Diğer Geribildirim Çeşitleri"
+
+#: admin/feedback-types.php:68
+#: admin/feedback-types.php:90
+#: dist/releases/usernoise/usernoise/admin/feedback-types.php:68
+#: dist/releases/usernoise/usernoise/admin/feedback-types.php:90
+#: dist/usernoise/admin/feedback-types.php:68
+#: dist/usernoise/admin/feedback-types.php:90
+#@ usernoise-pro
+msgid "Name in plural form"
+msgstr "Çoğul İsim"
+
+#: admin/feedback-types.php:70
+#: admin/feedback-types.php:92
+#: dist/releases/usernoise/usernoise/admin/feedback-types.php:70
+#: dist/releases/usernoise/usernoise/admin/feedback-types.php:92
+#: dist/usernoise/admin/feedback-types.php:70
+#: dist/usernoise/admin/feedback-types.php:92
+#@ usernoise-pro
+msgid "Plural form used by some of the UI"
+msgstr ""
+
+#: dist/releases/usernoise/usernoise/html/headers-meta-box.php:2
+#: dist/usernoise/html/headers-meta-box.php:2
+#: html/headers-meta-box.php:2
+#@ default
+msgid "URL:"
+msgstr "URL:"
+
+#: dist/releases/usernoise/usernoise/html/headers-meta-box.php:6
+#: dist/usernoise/html/headers-meta-box.php:6
+#: html/headers-meta-box.php:6
+#@ default
+msgid "Browser:"
+msgstr "Tarayıcı:"
+
+#: dist/releases/usernoise/usernoise/html/headers-meta-box.php:11
+#: dist/usernoise/html/headers-meta-box.php:11
+#: html/headers-meta-box.php:11
+#@ default
+msgid "Client IP:"
+msgstr "İstemci IP:"
+
+#: dist/releases/usernoise/usernoise/html/headers-meta-box.php:18
+#: dist/usernoise/html/headers-meta-box.php:18
+#: html/headers-meta-box.php:18
+#@ default
+msgid "X-Forwarded-For:"
+msgstr "Kimden Kime"
+
+#: dist/releases/usernoise/usernoise/html/headers-meta-box.php:25
+#: dist/usernoise/html/headers-meta-box.php:25
+#: html/headers-meta-box.php:25
+#@ default
+msgid "View page snapshot"
+msgstr "Anlık Ekran Görüntüsü"
+
+#: dist/releases/usernoise/usernoise/inc/controller.php:103
+#: dist/releases/usernoise/usernoise/inc/controller.php:152
+#: dist/usernoise/inc/controller.php:103
+#: dist/usernoise/inc/controller.php:152
+#: inc/controller.php:104
+#: inc/controller.php:152
+#@ usernoise
+msgid "ago"
+msgstr "Önce"
+
+#: dist/releases/usernoise/usernoise/inc/controller.php:198
+#: dist/usernoise/inc/controller.php:198
+#: inc/controller.php:196
+#@ default
+msgid "Hackin, huh?"
+msgstr "Hay aksi"
+
+#: dist/releases/usernoise/usernoise/inc/controller.php:208
+#: dist/releases/usernoise/usernoise/inc/model.php:139
+#: dist/usernoise/inc/controller.php:208
+#: dist/usernoise/inc/model.php:139
+#: inc/controller.php:206
+#: inc/model.php:139
+#@ default
+#@ usernoise-pro
+msgid "Name"
+msgstr "İsim"
+
+#: dist/releases/usernoise/usernoise/inc/template.php:348
+#: dist/usernoise/inc/template.php:351
+#: inc/template.php:375
+#@ usernoise
+msgid "Enter your feedback here"
+msgstr "Lütfen mesajınızı buraya yazın"
+
+#: dist/releases/usernoise/usernoise/inc/template.php:349
+#: dist/usernoise/inc/template.php:352
+#: inc/template.php:379
+#@ usernoise
+msgid "Next"
+msgstr "Sonraki"
+
+#: dist/releases/usernoise/usernoise/inc/template.php:350
+#: dist/usernoise/inc/template.php:353
+#: inc/template.php:380
+#@ usernoise
+msgid "Taking screenshot"
+msgstr "Ekran Görüntüsü Alınıyor"
+
+#: dist/releases/usernoise/usernoise/inc/template.php:351
+#: dist/usernoise/inc/template.php:354
+#: inc/template.php:381
+#@ usernoise
+msgid "Take a screenshot"
+msgstr "Ekran Görüntüsü Al"
+
+#: dist/releases/usernoise/usernoise/inc/template.php:352
+#: dist/usernoise/inc/template.php:355
+#@ usernoise
+msgid "screenshot.png"
+msgstr "ekrangoruntusu.png"
+
+#: dist/releases/usernoise/usernoise/inc/template.php:353
+#: dist/usernoise/inc/template.php:356
+#: inc/template.php:384
+#@ usernoise
+msgid "Cancel"
+msgstr "İptal"
+
+#: dist/releases/usernoise/usernoise/inc/template.php:355
+#: dist/usernoise/inc/template.php:358
+#: inc/template.php:386
+#@ usernoise
+msgid "Back"
+msgstr "Geri"
+
+#: dist/releases/usernoise/usernoise/inc/template.php:356
+#: dist/usernoise/inc/template.php:359
+#: inc/template.php:387
+#@ usernoise
+msgid "Submit"
+msgstr "Gönder"
+
+#: dist/releases/usernoise/usernoise/inc/template.php:357
+#: dist/usernoise/inc/template.php:360
+#: inc/template.php:388
+#@ usernoise
+msgid "Submitting"
+msgstr "Gönderiliyor"
+
+#: dist/releases/usernoise/usernoise/inc/template.php:358
+#: dist/usernoise/inc/template.php:361
+#: inc/template.php:389
+#@ usernoise
+msgid "Error sending feedback"
+msgstr "Geribildirim Gönderilemedi"
+
+#: dist/releases/usernoise/usernoise/inc/model.php:419
+#: dist/releases/usernoise/usernoise/inc/template.php:361
+#: dist/usernoise/inc/model.php:419
+#: dist/usernoise/inc/template.php:364
+#: inc/model.php:419
+#: inc/template.php:394
+#@ usernoise
+msgid "Done"
+msgstr "Tamam"
+
+#: dist/releases/usernoise/usernoise/inc/template.php:362
+#: dist/usernoise/inc/template.php:365
+#: inc/template.php:396
+#@ usernoise
+msgid "Please enter a valid email address"
+msgstr "Lütfen Geçerli Bir Mail Adresi Girin"
+
+#: dist/releases/usernoise/usernoise/inc/template.php:363
+#: dist/usernoise/inc/template.php:366
+#: inc/template.php:397
+#@ usernoise
+msgid "This field is required"
+msgstr "Bu Alan Gereklidir"
+
+#: dist/releases/usernoise/usernoise/inc/template.php:364
+#: dist/usernoise/inc/template.php:367
+#: inc/template.php:398
+#@ usernoise
+msgid "My feedback"
+msgstr "Geribildirimlerim"
+
+#: dist/releases/usernoise/usernoise/inc/template.php:365
+#: dist/usernoise/inc/template.php:368
+#: inc/template.php:400
+#@ usernoise
+msgid "No feedback matching the criteria"
+msgstr "Bu Kriterde Geribildirim Yok"
+
+#: dist/releases/usernoise/usernoise/inc/template.php:366
+#: dist/usernoise/inc/template.php:369
+#: inc/template.php:401
+#@ usernoise
+msgid "Comments:"
+msgstr "Yorumlar:"
+
+#: dist/releases/usernoise/usernoise/inc/template.php:367
+#: dist/usernoise/inc/template.php:370
+#: inc/template.php:402
+#@ usernoise
+msgid "Leave a comment"
+msgstr "Yorum Yap"
+
+#: dist/releases/usernoise/usernoise/inc/template.php:368
+#: dist/usernoise/inc/template.php:371
+#: inc/template.php:403
+#@ usernoise
+msgid "Like"
+msgstr "Beğen"
+
+#: dist/releases/usernoise/usernoise/inc/template.php:369
+#: dist/usernoise/inc/template.php:372
+#: inc/template.php:404
+#@ usernoise
+msgid "Your email"
+msgstr "Mail Adresiniz"
+
+#: dist/releases/usernoise/usernoise/inc/template.php:371
+#: dist/usernoise/inc/template.php:374
+#: inc/template.php:406
+#@ usernoise
+msgid "Comment text"
+msgstr "Yorum Metni"
+
+#: dist/releases/usernoise/usernoise/inc/template.php:372
+#: dist/usernoise/inc/template.php:375
+#: inc/template.php:407
+#@ usernoise
+msgid "All feedback"
+msgstr "Tüm Geribildirimler"
+
+#: dist/releases/usernoise/usernoise/inc/model.php:137
+#: dist/usernoise/inc/model.php:137
+#: inc/model.php:137
+#@ usernoise-pro
+msgid "From:"
+msgstr "Kimden:"
+
+#: dist/releases/usernoise/usernoise/inc/model.php:147
+#: dist/usernoise/inc/model.php:147
+#: inc/model.php:147
+#@ usernoise-pro
+msgid "Summary:"
+msgstr "Özet:"
+
+#: dist/releases/usernoise/usernoise/inc/model.php:297
+#: dist/usernoise/inc/model.php:297
+#: inc/model.php:297
+#, php-format
+#@ usernoise
+msgid "Your feedback \"%s\" has been published by admin. Thanks for your feedback!"
+msgstr "\"%s\" Geribildiriminiz Yönetici İle Paylaşıldı Teşekkür Ederiz"
+
+#: dist/releases/usernoise/usernoise/inc/model.php:298
+#: dist/usernoise/inc/model.php:298
+#: inc/model.php:298
+#, php-format
+#@ usernoise
+msgid "You can view it at %s"
+msgstr "%s Görüntüleyebilirsiniz"
+
+#: dist/releases/usernoise/usernoise/inc/model.php:299
+#: dist/usernoise/inc/model.php:299
+#: inc/model.php:299
+#, php-format
+#@ usernoise
+msgid "Feedback approved at %s"
+msgstr "Onaylı Geribildirim %s"
+
+#: dist/releases/usernoise/usernoise/inc/model.php:333
+#: dist/releases/usernoise/usernoise/inc/model.php:350
+#: dist/releases/usernoise/usernoise/inc/model.php:367
+#: dist/usernoise/inc/model.php:333
+#: dist/usernoise/inc/model.php:350
+#: dist/usernoise/inc/model.php:367
+#: inc/model.php:333
+#: inc/model.php:350
+#: inc/model.php:367
+#@ default
+msgid "Hacking, huh?"
+msgstr "Hay aksi"
+
+#: dist/releases/usernoise/usernoise/inc/model.php:415
+#: dist/usernoise/inc/model.php:415
+#: inc/model.php:415
+#@ usernoise
+msgid "New"
+msgstr "Yeni"
+
+#: dist/releases/usernoise/usernoise/inc/model.php:416
+#: dist/usernoise/inc/model.php:416
+#: inc/model.php:416
+#@ usernoise
+msgid "Rejected"
+msgstr "Reddedildi"
+
+#: dist/releases/usernoise/usernoise/inc/model.php:417
+#: dist/usernoise/inc/model.php:417
+#: inc/model.php:417
+#@ usernoise
+msgid "Planned"
+msgstr "Planlandı"
+
+#: dist/releases/usernoise/usernoise/inc/model.php:418
+#: dist/usernoise/inc/model.php:418
+#: inc/model.php:418
+#@ usernoise
+msgid "In progress"
+msgstr "İşleniyor"
+
+#: dist/releases/usernoise/usernoise/inc/model.php:441
+#: dist/usernoise/inc/model.php:441
+#: inc/model.php:441
+#, php-format
+#@ usernoise
+msgid "Your feedback \"%s\" was changed from %s to %s."
+msgstr "Geribildiriminiz \"%s\" değiştirildi %s için %s."
+
+#: dist/releases/usernoise/usernoise/inc/model.php:442
+#: dist/usernoise/inc/model.php:442
+#: inc/model.php:442
+#, php-format
+#@ usernoise
+msgid "You can view your feedback at %s"
+msgstr "Geribildiriminizi Görebilirsiniz %s"
+
+#: dist/releases/usernoise/usernoise/inc/model.php:443
+#: dist/usernoise/inc/model.php:443
+#: inc/model.php:443
+#@ usernoise
+msgid "Original feedback was:"
+msgstr "Orijinal Geribildiriminiz:"
+
+#: dist/releases/usernoise/usernoise/inc/model.php:445
+#: dist/usernoise/inc/model.php:445
+#: inc/model.php:445
+#, php-format
+#@ usernoise
+msgid "Feedback status changed at %s"
+msgstr "Geribildirim Durumu Değiştirildi %s"
+
+#: dist/releases/usernoise/usernoise/inc/model.php:476
+#: dist/usernoise/inc/model.php:476
+#: inc/model.php:476
+#, php-format
+#@ default
+msgid "[%1$s] Comment: \"%2$s\""
+msgstr "[%1$s] Yorum: \"%2$s\""
+
+#: dist/releases/usernoise/usernoise/inc/model.php:477
+#: dist/usernoise/inc/model.php:477
+#: inc/model.php:477
+#, php-format
+#@ usernoise
+msgid "New comment on your feedback \"%s\" at %s"
+msgstr "Geribildiriminiz İçin Yeni Yorum \"%s\" at %s"
+
+#. translators: 1: comment author, 2: author IP, 3: author domain
+#. translators: 1: comment author, 2: author IP, 3: author domain
+#. translators: 1: comment author, 2: author IP, 3: author domain
+#: dist/releases/usernoise/usernoise/inc/model.php:481
+#: dist/usernoise/inc/model.php:481
+#: inc/model.php:481
+#@ default
+msgid "Comment: "
+msgstr "Yorum:"
+
+#: dist/releases/usernoise/usernoise/inc/template.php:237
+#: dist/usernoise/inc/template.php:237
+#: inc/template.php:237
+#, php-format
+#@ usernoise
+msgid "%s week"
+msgid_plural "%s weeks"
+msgstr[0] "%s hafta"
+
+#: dist/releases/usernoise/usernoise/inc/template.php:239
+#: dist/usernoise/inc/template.php:239
+#: inc/template.php:239
+#, php-format
+#@ usernoise
+msgid "%s month"
+msgid_plural "%s months"
+msgstr[0] "%s ay"
+
+#: dist/releases/usernoise/usernoise/inc/template.php:241
+#: dist/usernoise/inc/template.php:241
+#: inc/template.php:241
+#, php-format
+#@ usernoise
+msgid "%s year"
+msgid_plural "%s years"
+msgstr[0] "%s yıl"
+
+#: dist/releases/usernoise/usernoise/inc/template.php:268
+#: dist/usernoise/inc/template.php:268
+#: inc/template.php:268
+#@ usernoise
+msgid "Email address"
+msgstr "E Posta Adresi"
+
+#: dist/releases/usernoise/usernoise/inc/template.php:269
+#: dist/usernoise/inc/template.php:269
+#: inc/template.php:269
+#@ usernoise
+msgid "you@example.com"
+msgstr "isim@siteadresi.com"
+
+#: dist/releases/usernoise/usernoise/inc/template.php:277
+#: dist/usernoise/inc/template.php:277
+#: inc/template.php:277
+#@ usernoise
+msgid "John Smith"
+msgstr "John Smith"
+
+#: dist/releases/usernoise/usernoise/inc/template.php:284
+#: dist/usernoise/inc/template.php:284
+#: inc/template.php:284
+#@ usernoise
+msgid "Summary"
+msgstr "Özet"
+
+#: dist/releases/usernoise/usernoise/inc/template.php:294
+#: dist/usernoise/inc/template.php:294
+#: inc/template.php:294
+#@ usernoise
+msgid "Please select"
+msgstr "Lütfen Seçiniz"
+
+#: admin/editor-page.php:48
+#: dist/releases/usernoise/usernoise/admin/editor-page.php:48
+#: dist/usernoise/admin/editor-page.php:48
+#@ default
+msgid "Comments"
+msgstr ""
+
+#: admin/editor-page.php:66
+#: dist/releases/usernoise/usernoise/admin/editor-page.php:66
+#: dist/usernoise/admin/editor-page.php:66
+#@ usernoise
+msgid "Browser"
+msgstr ""
+
+#: admin/feedback-list.php:20
+#: dist/releases/usernoise/usernoise/admin/feedback-list.php:20
+#: dist/usernoise/admin/feedback-list.php:20
+#@ usernoise
+msgid "Status"
+msgstr ""
+
+#: admin/feedback-list.php:32
+#: dist/releases/usernoise/usernoise/admin/feedback-list.php:32
+#: dist/usernoise/admin/feedback-list.php:32
+#@ usernoise-pro
+msgid "All feedback statuses"
+msgstr ""
+
+#: admin/settings.php:32
+#: dist/releases/usernoise/usernoise/admin/settings.php:32
+#: dist/usernoise/admin/settings.php:32
+#@ usernoise
+msgid "Discussions"
+msgstr ""
+
+#: admin/settings.php:37
+#: dist/releases/usernoise/usernoise/admin/settings.php:37
+#: dist/usernoise/admin/settings.php:37
+#@ usernoise
+msgid "External"
+msgstr ""
+
+#: admin/settings.php:42
+#: dist/releases/usernoise/usernoise/admin/settings.php:42
+#: dist/usernoise/admin/settings.php:42
+#@ usernoise
+msgid "Pro"
+msgstr ""
+
+#: admin/settings.php:55
+#: dist/releases/usernoise/usernoise/admin/settings.php:55
+#: dist/usernoise/admin/settings.php:55
+#@ usernoise
+msgid "<code>[feedbacks]</code> - use it to display the discussion on any page you want."
+msgstr ""
+
+#: admin/settings.php:56
+#: dist/releases/usernoise/usernoise/admin/settings.php:56
+#: dist/usernoise/admin/settings.php:56
+#@ usernoise
+msgid "<code>[feedbacks type=\"praise\"]</code> will show specific feedback category by default."
+msgstr ""
+
+#: admin/settings.php:57
+#: dist/releases/usernoise/usernoise/admin/settings.php:57
+#: dist/usernoise/admin/settings.php:57
+#@ usernoise
+msgid "<code>[feedbacks notabs]</code> hides the feedback type tabs."
+msgstr ""
+
+#: admin/settings.php:63
+#: dist/releases/usernoise/usernoise/admin/settings.php:63
+#: dist/usernoise/admin/settings.php:63
+#@ usernoise
+msgid "Enable public comments"
+msgstr ""
+
+#: admin/settings.php:69
+#: dist/releases/usernoise/usernoise/admin/settings.php:69
+#: dist/usernoise/admin/settings.php:69
+#@ usernoise
+msgid "<code>[feedbacks]</code> page URL"
+msgstr ""
+
+#: admin/settings.php:70
+#: dist/releases/usernoise/usernoise/admin/settings.php:70
+#: dist/usernoise/admin/settings.php:70
+#@ usernoise
+msgid ""
+"If you're using <code>[feedbacks]</code> shortcode\n"
+"\t\t\t\t\ton some of the pages - you can link there from the popup by entering\n"
+"\t\t\t\t\tits URL here."
+msgstr ""
+
+#: admin/settings.php:82
+#: dist/releases/usernoise/usernoise/admin/settings.php:82
+#: dist/usernoise/admin/settings.php:82
+#@ usernoise
+msgid "This tab was discontinued in 4.0. Please contact the support if you need any options those were here."
+msgstr ""
+
+#: admin/settings.php:114
+#: admin/settings.php:115
+#: dist/releases/usernoise/usernoise/admin/settings.php:114
+#: dist/releases/usernoise/usernoise/admin/settings.php:115
+#: dist/usernoise/admin/settings.php:114
+#: dist/usernoise/admin/settings.php:115
+#@ usernoise
+msgid "Only allow for registered users"
+msgstr ""
+
+#: admin/settings.php:118
+#: admin/settings.php:119
+#: dist/releases/usernoise/usernoise/admin/settings.php:118
+#: dist/releases/usernoise/usernoise/admin/settings.php:119
+#: dist/usernoise/admin/settings.php:118
+#: dist/usernoise/admin/settings.php:119
+#@ usernoise
+msgid "Show feedback button"
+msgstr ""
+
+#: admin/settings.php:145
+#: admin/settings.php:146
+#: dist/releases/usernoise/usernoise/admin/settings.php:145
+#: dist/releases/usernoise/usernoise/admin/settings.php:146
+#: dist/usernoise/admin/settings.php:145
+#: dist/usernoise/admin/settings.php:146
+#@ usernoise
+msgid "Enable screenshots"
+msgstr ""
+
+#: admin/settings.php:148
+#: dist/releases/usernoise/usernoise/admin/settings.php:148
+#: dist/usernoise/admin/settings.php:148
+#@ usernoise
+msgid "Please note, that screenshots may be inaccurate, as they are based on html2canvas library"
+msgstr ""
+
+#: admin/settings.php:151
+#: dist/releases/usernoise/usernoise/admin/settings.php:151
+#: dist/usernoise/admin/settings.php:151
+#@ usernoise
+msgid "Screenshot format"
+msgstr ""
+
+#: admin/settings.php:157
+#: dist/releases/usernoise/usernoise/admin/settings.php:157
+#: dist/usernoise/admin/settings.php:157
+#@ usernoise
+msgid "JPEG image quality"
+msgstr ""
+
+#: admin/settings.php:161
+#: dist/releases/usernoise/usernoise/admin/settings.php:161
+#: dist/usernoise/admin/settings.php:161
+#@ usernoise
+msgid "Decrease quality if your screenshots do not save properly"
+msgstr ""
+
+#: admin/settings.php:197
+#: dist/releases/usernoise/usernoise/admin/settings.php:197
+#: dist/usernoise/admin/settings.php:197
+#@ usernoise
+msgid "Admin email for notifications"
+msgstr ""
+
+#: admin/settings.php:200
+#: admin/settings.php:201
+#: dist/releases/usernoise/usernoise/admin/settings.php:200
+#: dist/releases/usernoise/usernoise/admin/settings.php:201
+#: dist/usernoise/admin/settings.php:200
+#: dist/usernoise/admin/settings.php:201
+#@ usernoise
+msgid "Site URL in notification text"
+msgstr ""
+
+#: admin/settings.php:211
+#: dist/releases/usernoise/usernoise/admin/settings.php:211
+#: dist/usernoise/admin/settings.php:211
+#@ usernoise
+msgid "Code for external usage"
+msgstr ""
+
+#: dist/releases/usernoise/usernoise/inc/template.php:360
+#: dist/usernoise/inc/template.php:363
+#: inc/template.php:392
+#@ usernoise
+msgid "Your feedback was submitted successfully"
+msgstr ""
+
+#: dist/releases/usernoise/usernoise/inc/template.php:373
+#: dist/usernoise/inc/template.php:376
+#: inc/template.php:409
+#@ usernoise
+msgid "Your comment is being approved now"
+msgstr ""
+
+#: dist/releases/usernoise/usernoise/inc/template.php:374
+#: dist/usernoise/inc/template.php:377
+#: inc/template.php:411
+#@ usernoise
+msgid "See what others a saying"
+msgstr ""
+
+#: dist/releases/usernoise/usernoise/inc/widgets.php:7
+#: dist/usernoise/inc/widgets.php:7
+#: inc/widgets.php:7
+#@ default
+msgid "The most recent feedback"
+msgstr ""
+
+#: dist/releases/usernoise/usernoise/inc/widgets.php:8
+#: dist/releases/usernoise/usernoise/inc/widgets.php:14
+#: dist/usernoise/inc/widgets.php:8
+#: dist/usernoise/inc/widgets.php:14
+#: inc/widgets.php:8
+#: inc/widgets.php:14
+#@ default
+#@ usernoise-pro
+msgid "Recent Feedback"
+msgstr ""
+
+#: dist/releases/usernoise/usernoise/inc/widgets.php:43
+#: dist/usernoise/inc/widgets.php:43
+#: inc/widgets.php:43
+#, php-format
+#@ default
+msgid "%d like"
+msgid_plural "%d likes"
+msgstr[0] ""
+
+#: dist/releases/usernoise/usernoise/inc/widgets.php:84
+#: dist/usernoise/inc/widgets.php:84
+#: inc/widgets.php:84
+#@ default
+msgid "Title:"
+msgstr ""
+
+#: dist/releases/usernoise/usernoise/inc/widgets.php:89
+#: dist/usernoise/inc/widgets.php:89
+#: inc/widgets.php:89
+#@ default
+msgid "Number of items to show:"
+msgstr ""
+
+#: dist/releases/usernoise/usernoise/inc/widgets.php:93
+#: dist/usernoise/inc/widgets.php:93
+#: inc/widgets.php:93
+#@ default
+msgid "Type:"
+msgstr ""
+
+#: dist/releases/usernoise/usernoise/inc/widgets.php:96
+#: dist/releases/usernoise/usernoise/inc/widgets.php:103
+#: dist/usernoise/inc/widgets.php:96
+#: dist/usernoise/inc/widgets.php:103
+#: inc/widgets.php:96
+#: inc/widgets.php:103
+#@ usernoise-pro
+msgid "Any"
+msgstr ""
+
+#: dist/releases/usernoise/usernoise/inc/widgets.php:109
+#: dist/usernoise/inc/widgets.php:109
+#: inc/widgets.php:109
+#@ usernoise-pro
+msgid "Show likes"
+msgstr ""
+
+#: dist/releases/usernoise/usernoise/inc/widgets.php:115
+#: dist/usernoise/inc/widgets.php:115
+#: inc/widgets.php:115
+#@ usernoise-pro
+msgid "Show feedback type"
+msgstr ""
+
+#: dist/releases/usernoise/usernoise/inc/widgets.php:122
+#: dist/usernoise/inc/widgets.php:122
+#: inc/widgets.php:122
+#@ usernoise-pro
+msgid "Show Powered by"
+msgstr ""
+
+#: dist/usernoise/inc/template.php:347
+#@ usernoise
+msgid "Newest first"
+msgstr ""
+
+#: dist/usernoise/inc/template.php:348
+#@ usernoise
+msgid "Oldest first"
+msgstr ""
+
+#: dist/usernoise/inc/template.php:349
+#@ usernoise
+msgid "Liked"
+msgstr ""
+
+#: inc/template.php:376
+#@ usernoise
+msgid "Logged in as"
+msgstr ""
+
+#: inc/template.php:377
+#@ usernoise
+msgid "Anonymous"
+msgstr ""
+
+#: inc/template.php:378
+#@ usernoise
+msgid "Log in"
+msgstr ""
+
+#: inc/template.php:382
+#@ usernoise
+msgid "Attach file"
+msgstr ""
+
+#: inc/template.php:383
+#@ usernoise
+msgid "screenshot"
+msgstr ""
+
+#: inc/template.php:393
+#@ usernoise
+msgid "Sent successfully"
+msgstr ""
+

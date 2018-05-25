@@ -16,6 +16,9 @@ Hyvinvointi- ja terveysdatan informaatioportaali käyttää vapaan lähdekoodin 
 
 # Asennus
 
+- Sivuston lähdekoodit sijaitsevat Git-kansiossa src
+- Sivuston tietokanta sijaitsee Git-kansiossa db
+
 Informaatioportaalin asentamiseen tarvitaan FTP- ja SSH-/komentoriviyhteydet käytettäville palvelimille.
 
 1.	Luo tietokannalle käyttäjätunnus sivpalvelimen tietokantaan täysillä oikeuksilla ja luo käyttäjätunnukselle salasana. Ota käyttäjätunnus ja salasana talteen myöhempää käyttöä varten.

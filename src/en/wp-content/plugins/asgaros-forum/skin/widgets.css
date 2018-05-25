@@ -1,0 +1,52 @@
+.asgarosforum-widget {
+    font-size: 12px;
+}
+.asgarosforum-widget .widget-element {
+    display: table;
+    border-bottom: 1px solid #ccc;
+    margin-bottom: 8px;
+    padding-bottom: 8px;
+    width: 100%;
+}
+.asgarosforum-widget .widget-avatar,
+.asgarosforum-widget .widget-content {
+    display: table-cell;
+    vertical-align: top;
+}
+.asgarosforum-widget .widget-avatar {
+    width: 40px;
+}
+.asgarosforum-widget .widget-avatar img {
+    border: 1px solid #fff;
+    outline: 1px solid #ccc;
+    margin: 5px 10px 0 0;
+}
+.asgarosforum-widget .post-link,
+.asgarosforum-widget .post-author,
+.asgarosforum-widget .post-date {
+    display: block;
+}
+.asgarosforum-widget .highlight-admin,
+.asgarosforum-widget .highlight-admin a {
+    color: #e00000 !important;
+}
+.asgarosforum-widget .highlight-moderator,
+.asgarosforum-widget .highlight-moderator a {
+    color: #099922 !important;
+}
+.asgarosforum-widget .post-link a,
+.asgarosforum-widget .post-author a {
+    text-decoration: none;
+}
+.asgarosforum-widget .post-link a:hover,
+.asgarosforum-widget .post-author a:hover {
+    text-decoration: underline;
+}
+
+.asgarosforum-widget .post-date {
+    font-style: italic;
+}
+.asgarosforum-widget .post-author,
+.asgarosforum-widget .post-date {
+    font-size: 11px;
+}
